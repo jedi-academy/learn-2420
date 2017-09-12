@@ -4,7 +4,7 @@ ACIT3620 Course Hub Website
 
 This is the course hub for 
 `ACIT3620 Systems Administration Using Linux 
-<http://www.bcit.ca/study/outlines/20173034734>`_.
+<http://www.bcit.ca/study/outlines/20173034734>`_. 
 
 *****
 Setup
