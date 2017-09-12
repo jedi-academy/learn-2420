@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Lesson 00 - In-class Only Introduction
+-->
+<lesson status="v1.0">
+    
+    <!-- The meat of the presentation -->
+    <slide title="Your Instructors" layout="normal">
+        <h2>Jim Parry</h2>
+        <ul>
+            <li>Day job: BCIT instructor</li>
+            <li>Unix (Solaris) and Linux (CentOS) user &amp; sysadmin for 20+ years</li>
+            <li>Contact: SW2-124, email instead</li>
+            <li>Email: jim_parry@bcit.ca</li>
+        </ul>
+    </slide>
+
+    <slide title="Course Outcomes" layout="normal">
+        <p>See the "course goals" section in the course outline.</p>
+        <ul>
+            <li>Introduction to Linux</li>
+            <li>Linux system administration</li>
+            <li>Very hands-on</li>
+        </ul>
+        <p>Do you want to be a sysadmin?</p>
+    </slide>
+
+    <slide title="Red Hat Academy" layout="normal">
+        <p>We are a Red Hat Academy partner!</p>
+        <ul>
+            <li>Official course materials</li>
+            <li>Free access for 1 year</li>
+            <li>This course is based on Sys Admin I (RH124)</li>
+            <li>You can take Sys Admin II (RH134) on your own</li>
+            <li>You get a 50% discount on the RHCSA exam if you write it.</li>
+        </ul>
+        <p>What's in it for you?</p>
+    </slide>
+
+    <slide title="Resources" layout="normal">
+        <p>RH Academy portal ... see D2L for the link to signup.
+            This gives you access to HTML student guides for
+            any courses you "buy".
+            <b>This is an off-campus resource, and the BCIT privacy policies
+            apply. A written consent will be required of all students
+            who wish to proceed!</b>
+        </p>
+        <p>RH Classroom server ... Red Hat has a classroom server, which
+            provides virtualized desktop &amp; server RHEL7 environments
+            for students taking their courses. We are in the process of setting
+            that up in house.</p>
+        <p>You will setup CentOS on your own systems ... two instances, each in a VirtualBox
+            VM.</p>        
+    </slide>
+
+    <slide title="Deviating from Normal ..." layout="normal">
+        <p>A few things are different in this course, compared to CST,
+            but you are already familiar with them :)</p>
+        <ul>
+            <li>Flipped Learning - weekly readings/watchings will be assigned,
+                with a D2L survey to complete 
+            by the evening before that week's lecturette and seminar.
+            </li>
+            <li>Flipped LMS - I am using the same course hub you saw in ACIT2910.</li>
+            <li>"Authentic" assessment - hands-on labs, with proof of succesful
+            completion.</li>
+        </ul>
+    </slide>
+
+     <slide title="Our Course Hub" layout="normal">
+        <h2>
+            <a href="https://acit3620.jlparry.com" target="_blank">ACIT3620 
+                Course Hub</a>
+        </h2>
+        <ul>
+            <li>
+                <a href="{outline}" target="_blank">
+                    Course outline</a> on BCIT site</li>
+            <li>Organizer, and *my* lessons, tutorials, and lab/assignment writeups all on our course hub.</li>
+            <li>Any Red Hat proprietary material will be on D2L.</li>
+            <li>Labs/walkthroughs done individually, although some will be in pairs.</li>
+            <li>Assignments done in small teams.</li>
+        </ul>
+    </slide>
+
+    <slide title="Grading" layout="normal">
+        <ul>
+            <li>10%: Surveys &amp; lab participation</li>
+            <li>25%: 10 hands-on labs</li>
+            <li>30%: up to 3 team assignments</li>
+            <li>10%: investigative report (midterm)</li>
+            <li>25%: Final exam, comprehensive</li>
+        </ul>
+        <p>Attendance expected, missing more than 2 labs =&gt; U</p>
+    </slide>
+
+</lesson>

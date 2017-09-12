@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE organizer SYSTEM "../xml/organizer.dtd">
+<!--
+Course organizer for Comp4711
+-->
+<organizer>
+    <week num="1">
+        <topic>No class</topic>
+    </week>
+    <week num="2">
+        <topic>Introduction &amp; Command Line</topic>
+        <lesson name="intro01">Course introduction</lesson>
+        <tutorial name="setup01">Installation &amp; setup</tutorial>
+        <lab name="lab01">Command line</lab>
+    </week>
+    <week num="3">
+        <topic>Managing Files</topic>         
+    </week>
+    <week num="4">
+        <topic>Help &amp; Editing</topic>         
+    </week>
+    <week num="5">
+        <topic>Managing Users, Groups &amp; Files</topic>
+    </week>
+    <week num="6">
+        <topic>Managing Processes</topic>
+    </week>
+    <week num="7">
+        <topic>Services &amp; Daemons</topic>
+    </week>
+    <week num="8">
+        <topic>Investigative Report (Midterm)</topic>
+    </week>
+    <week num="9">
+        <topic>Logs &amp; Networking</topic>
+    </week>
+    <week num="10">
+        <topic>More Networking</topic>
+    </week>
+    <week num="11">
+        <topic>Software Packages</topic>
+    </week>
+    <week num="12">
+        <topic>File &amp; Virtualized Systems</topic>
+    </week>
+    <week num="13">
+        <topic>Assignment Completion</topic>
+    </week>
+    <week num="14">
+        <topic>Comprehensive Review</topic>
+    </week>
+    <week num="15">
+        <topic>Final Exam</topic>
+    </week>
+<!--    <week num="aa">
+        <topic>Assignments</topic>
+        <assignment name="assignment1">Functional Bot Factory</assignment>
+        <assignment name="assignment1faq" icon="read" >Assignment 1 FAQ</assignment> 
+        <assignment name="assignment2">Functional Bot Factory</assignment>
+        <assignment name="assignment3">Functional Bot Factory</assignment>
+    </week>
+    <week num="zz">
+        <topic>FAQs</topic>
+        <lesson name="faq-general" icon="read" >FAQ</lesson>		
+        <lesson name="faq-apache" icon="read" >FAQ</lesson>		
+        <lesson name="faq-devops" icon="read" >FAQ</lesson>		
+        <lesson name="faq-ci" icon="read" >FAQ</lesson>		
+        <lesson name="faq-macos" icon="read" >FAQ</lesson>		
+    </week>
+    <week num="yy">
+        <topic>Other Frameworks (FYI)</topic>
+         <lesson name="basic01-other" icon="read" >Other MVC Framework Examples</lesson>
+        <lesson name="other-routing" icon="read">Routing examples from  other frameworks</lesson>
+        <lesson name="other-models" icon="read" >Model examples from  other frameworks</lesson>
+        <lesson name="other-controllers" icon="read" >Controller examples from other frameworks</lesson>
+        <lesson name="other-views" icon="read" >View examples from  other frameworks</lesson>
+        <lesson name="other-forms" icon="read" >Form examples from  other frameworks</lesson> 
+        <lesson name="other-rest" icon="read" >REST examples from  other frameworks</lesson> 
+    </week>
+    <week num="xx">
+        <topic>Supplementary Reading FYI</topic>
+        <lesson name="basic04-leftovers"  icon="read">Other Form Techniques</lesson>
+        <lesson name="xml01"  icon="read">XML Basics (Optional Refresher)</lesson>
+        <lesson name="xml02"  icon="read">Constraining XML (Optional)</lesson>
+        <lesson name="xml04" icon="read">Data Representation Conversions</lesson>
+        <lesson name="advanced02"  icon="read">XML-RPC</lesson>
+        <github name="xml" link="https://github.com/jedi-academy/example-xmlrpc" >XML-RPC Examples</github>
+        <lesson name="advanced04" icon="read">AJAX</lesson>
+        <lesson name="advanced01" icon="read">Authentication</lesson>
+                <lesson name="social1" active="n">Social Networking (optional, coming)</lesson>
+        <lesson name="social2" active="n">Social Integration (optional, coming)</lesson>
+    </week>
+        -->
+</organizer>
