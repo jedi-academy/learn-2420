@@ -53,26 +53,26 @@ and deducting for minor (1 mark) or major (2 marks) booboos.
 I will tell a few stories (below) at the beginning of each section of
 the lab :)
 
-##File systems
+##File systems (20 mins)
 
 - Linux/Unix/Mac vs Windows
 - mount points
 - distribution differences
 
-##Locating files
+##Locating files (25 mins)
 
 - absolute vs relative
 - folder separators
 
-##Managing files
+##Managing files (35 mins)
 
 - file system cautions
 - case sensitivity!
 
-##Path expansion
+##Path expansion (20 mins)
 
 - globbing!
 
-##Lab Exercise 
+##Lab Exercise (20 mins)
 
 Complete the lab exercise, 2.9 in your student guide.
