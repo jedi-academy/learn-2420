@@ -11,16 +11,19 @@ Course organizer for Comp4711
         <topic>Introduction &amp; Command Line</topic>
         <lesson name="intro01">Course introduction</lesson>
         <tutorial name="setup01">Installation &amp; setup</tutorial>
-        <lab name="lab01">Command line</lab>
+        <lab name="lab01">Ch1 - Command line</lab>
     </week>
     <week num="3">
         <topic>Managing Files</topic>         
-        <lesson name="prep02" icon="dothis">Linux overview (survey link coming)</lesson>
-        <lab name="lab02">Managing files</lab>
+        <lesson name="prep02" icon="dothis">Linux overview</lesson>
+        <lab name="lab02">Ch2 - Managing files</lab>
         <lesson name="week02" icon="read">Survey results</lesson>
     </week>
     <week num="4">
         <topic>Help &amp; Editing</topic>         
+        <lesson name="prep02" icon="dothis" survey="310070">Ch3 - Getting Help</lesson>
+        <lab name="lab03a">Ch4 - Editing text files</lab>
+        <lab name="lab03b">Ch5 - Managing users and groups</lab>
     </week>
     <week num="5">
         <topic>Managing Users, Groups &amp; Files</topic>
