@@ -37,7 +37,12 @@ partner, for support. You need individual submissions, even in that case.
 
 The "lab03" dropbox has been setup for you to use for this lab.
 
-**At time of prep, working on the script to verify successful completion**
+Download the **[lab03check.sh](/download/lab03check.sh)** bash script to your VM, and run it as root...
+
+    sh ./lab03check.sh > submission
+
+The above will create a text file, `submission`, that you should submit
+to the dropbox :-/
 
 Due: Sunday, Oct 1, 17:30 PST
 
