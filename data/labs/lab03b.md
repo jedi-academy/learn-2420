@@ -49,7 +49,7 @@ do a screen capture to submit.
 
 2) In your terminal window, "edit > select all" and paste the result into a text file to submit.
 
-3) Run the command as `sh ./lab03check >>submission.txt` to give you the file to submit.
+3) Run the command as `sh ./lab03check.sh >>submission.txt` to give you the file to submit.
 
 
 Due: Sunday, Oct 1, 17:30 PST
