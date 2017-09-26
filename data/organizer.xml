@@ -21,9 +21,10 @@ Course organizer for Comp4711
     </week>
     <week num="4">
         <topic>Help &amp; Editing</topic>         
-        <lesson name="prep02" icon="dothis" survey="310070">Ch3 - Getting Help</lesson>
+        <lesson name="prep03" icon="dothis" survey="310070">Ch3 - Getting Help</lesson>
         <lab name="lab03a">Ch4 - Editing text files</lab>
         <lab name="lab03b">Ch5 - Managing users and groups</lab>
+<!--        <lesson name="week03" icon="read">Week 3 survey results</lesson> -->
     </week>
     <week num="5">
         <topic>Managing Users, Groups &amp; Files</topic>
