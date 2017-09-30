@@ -39,10 +39,18 @@ The "lab03" dropbox has been setup for you to use for this lab.
 
 Download the **[lab03check.sh](/download/lab03check.sh)** bash script to your VM, and run it as root...
 
-    sh ./lab03check.sh > submission
+        clear
+        sh ./lab03check.sh
 
-The above will create a text file, `submission`, that you should submit
-to the dropbox :-/
+Three ways to submit...
+
+1) Adjust your terminal window size so that all the output from this shows, and
+do a screen capture to submit.
+
+2) In your terminal window, "edit > select all" and paste the result into a text file to submit.
+
+3) Run the command as `sh ./lab03check.sh >>submission.txt` to give you the file to submit.
+
 
 Due: Sunday, Oct 1, 17:30 PST
 
