@@ -12,6 +12,7 @@ Objectives
 prompt with a text editor.
 - Copy text from a graphical window to a text file using a
 text editor running in the graphical environment.
+
 Sections
 - Redirecting Output to a File or Program (and Practice)
 - Editing Text Files from the Shell Prompt (and Practice)

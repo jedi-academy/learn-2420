@@ -20,82 +20,50 @@ Course organizer for Comp4711
         <lesson name="week02" icon="read">Survey results</lesson>
     </week>
     <week num="4">
-        <topic>Help &amp; Editing</topic>         
-        <lesson name="prep03" icon="dothis" survey="310070">Ch3 - Getting Help</lesson>
+        <topic>Editing &amp; User Management</topic>         
+        <lesson name="prep03" icon="dothis">Ch3 - Getting Help</lesson>
         <lab name="lab03a">Ch4 - Editing text files</lab>
         <lab name="lab03b">Ch5 - Managing users and groups</lab>
-<!--        <lesson name="week03" icon="read">Week 3 survey results</lesson> -->
+        <!--        <lesson name="week03" icon="read">Week 3 survey results</lesson> -->
     </week>
     <week num="5">
-        <topic>Managing Users, Groups &amp; Files</topic>
+        <topic>Managing Processes</topic>
+        <lesson name="prep04" icon="dothis" survey="310582">Process Concepts</lesson>
+        <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
+        <lab name="lab04b">Process Practice</lab>
     </week>
     <week num="6">
-        <topic>Managing Processes</topic>
+        <topic>Services and Daemons</topic>
+<!--        <lesson name="prep05" icon="dothis">Service Concepts</lesson>
+        <lab name="lab05a">Ch8 - Control Services and Daemons</lab>
+        <lab name="lab05b">Ch9 - Managing OpenSSH</lab> -->
     </week>
     <week num="7">
-        <topic>Services &amp; Daemons</topic>
+        <topic>Networking</topic>
     </week>
     <week num="8">
         <topic>Investigative Report (Midterm)</topic>
     </week>
     <week num="9">
-        <topic>Logs &amp; Networking</topic>
-    </week>
-    <week num="10">
-        <topic>More Networking</topic>
-    </week>
-    <week num="11">
         <topic>Software Packages</topic>
     </week>
-    <week num="12">
+    <week num="10">
         <topic>File &amp; Virtualized Systems</topic>
     </week>
+    <week num="11">
+        <topic>More Networking</topic>
+    </week>
+    <week num="12">
+        <topic>More Networking</topic>
+    </week>
     <week num="13">
-        <topic>Assignment Completion</topic>
+        <topic>More Networking</topic>
     </week>
     <week num="14">
         <topic>Comprehensive Review</topic>
+        <topic>Assignment Completion</topic>
     </week>
     <week num="15">
         <topic>Final Exam</topic>
     </week>
-<!--    <week num="aa">
-        <topic>Assignments</topic>
-        <assignment name="assignment1">Functional Bot Factory</assignment>
-        <assignment name="assignment1faq" icon="read" >Assignment 1 FAQ</assignment> 
-        <assignment name="assignment2">Functional Bot Factory</assignment>
-        <assignment name="assignment3">Functional Bot Factory</assignment>
-    </week>
-    <week num="zz">
-        <topic>FAQs</topic>
-        <lesson name="faq-general" icon="read" >FAQ</lesson>		
-        <lesson name="faq-apache" icon="read" >FAQ</lesson>		
-        <lesson name="faq-devops" icon="read" >FAQ</lesson>		
-        <lesson name="faq-ci" icon="read" >FAQ</lesson>		
-        <lesson name="faq-macos" icon="read" >FAQ</lesson>		
-    </week>
-    <week num="yy">
-        <topic>Other Frameworks (FYI)</topic>
-         <lesson name="basic01-other" icon="read" >Other MVC Framework Examples</lesson>
-        <lesson name="other-routing" icon="read">Routing examples from  other frameworks</lesson>
-        <lesson name="other-models" icon="read" >Model examples from  other frameworks</lesson>
-        <lesson name="other-controllers" icon="read" >Controller examples from other frameworks</lesson>
-        <lesson name="other-views" icon="read" >View examples from  other frameworks</lesson>
-        <lesson name="other-forms" icon="read" >Form examples from  other frameworks</lesson> 
-        <lesson name="other-rest" icon="read" >REST examples from  other frameworks</lesson> 
-    </week>
-    <week num="xx">
-        <topic>Supplementary Reading FYI</topic>
-        <lesson name="basic04-leftovers"  icon="read">Other Form Techniques</lesson>
-        <lesson name="xml01"  icon="read">XML Basics (Optional Refresher)</lesson>
-        <lesson name="xml02"  icon="read">Constraining XML (Optional)</lesson>
-        <lesson name="xml04" icon="read">Data Representation Conversions</lesson>
-        <lesson name="advanced02"  icon="read">XML-RPC</lesson>
-        <github name="xml" link="https://github.com/jedi-academy/example-xmlrpc" >XML-RPC Examples</github>
-        <lesson name="advanced04" icon="read">AJAX</lesson>
-        <lesson name="advanced01" icon="read">Authentication</lesson>
-                <lesson name="social1" active="n">Social Networking (optional, coming)</lesson>
-        <lesson name="social2" active="n">Social Integration (optional, coming)</lesson>
-    </week>
-        -->
 </organizer>
