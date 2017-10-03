@@ -31,6 +31,7 @@ Course organizer for Comp4711
         <lesson name="prep04" icon="dothis" survey="310582">Process Concepts</lesson>
         <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
         <lab name="lab04b">Process Practice</lab>
+        <lesson name="week04" icon="read">Week 5 survey results</lesson>
     </week>
     <week num="6">
         <topic>Services and Daemons</topic>
