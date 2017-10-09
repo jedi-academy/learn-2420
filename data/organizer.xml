@@ -5,51 +5,51 @@ Course organizer for Comp4711
 -->
 <organizer>
     <week num="1">
-        <topic>No class</topic>
-    </week>
-    <week num="2">
         <topic>Introduction &amp; Command Line</topic>
         <lesson name="intro01">Course introduction</lesson>
         <tutorial name="setup01">Installation &amp; setup</tutorial>
         <lab name="lab01">Ch1 - Command line</lab>
     </week>
-    <week num="3">
+    <week num="2">
         <topic>Managing Files</topic>         
         <lesson name="prep02" icon="dothis">Linux overview</lesson>
         <lab name="lab02">Ch2 - Managing files</lab>
         <lesson name="week02" icon="read">Survey results</lesson>
     </week>
-    <week num="4">
+    <week num="3">
         <topic>Editing &amp; User Management</topic>         
         <lesson name="prep03" icon="dothis">Ch3 - Getting Help</lesson>
         <lab name="lab03a">Ch4 - Editing text files</lab>
         <lab name="lab03b">Ch5 - Managing users and groups</lab>
         <!--        <lesson name="week03" icon="read">Week 3 survey results</lesson> -->
     </week>
-    <week num="5">
+    <week num="4">
         <topic>Managing Processes</topic>
-        <lesson name="prep04" icon="dothis" survey="310582">Process Concepts</lesson>
+        <lesson name="prep04" icon="dothis">Process Concepts</lesson>
         <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
         <lab name="lab04b">Process Practice</lab>
         <lesson name="week04" icon="read">Week 5 survey results</lesson>
     </week>
-    <week num="6">
+    <week num="5">
         <topic>Services and Daemons</topic>
-<!--        <lesson name="prep05" icon="dothis">Service Concepts</lesson>
-        <lab name="lab05a">Ch8 - Control Services and Daemons</lab>
-        <lab name="lab05b">Ch9 - Managing OpenSSH</lab> -->
+        <lesson name="prep05" icon="dothis" survey="310582">Service Concepts</lesson>
+<!--        <lab name="lab05a">Ch8 - Control Services and Daemons</lab>
+        <lab name="lab05b">Ch9 - Managing OpenSSH</lab>  -->
     </week>
-    <week num="7">
+    <week num="6">
         <topic>Networking</topic>
     </week>
-    <week num="8">
+    <week num="7">
         <topic>Investigative Report (Midterm)</topic>
     </week>
-    <week num="9">
+    <week num="8">
         <topic>Software Packages</topic>
     </week>
-    <week num="10">
+    <week num="9">
         <topic>File &amp; Virtualized Systems</topic>
+    </week>
+    <week num="10">
+        <topic>More Networking</topic>
     </week>
     <week num="11">
         <topic>More Networking</topic>
@@ -58,13 +58,10 @@ Course organizer for Comp4711
         <topic>More Networking</topic>
     </week>
     <week num="13">
-        <topic>More Networking</topic>
-    </week>
-    <week num="14">
         <topic>Comprehensive Review</topic>
         <topic>Assignment Completion</topic>
     </week>
-    <week num="15">
+    <week num="14">
         <topic>Final Exam</topic>
     </week>
 </organizer>

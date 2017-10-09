@@ -1,7 +1,11 @@
-**Week 5** (Mon 22:00)  
-- Results of this week's survey posted
-- Lab 4 posted. Warning: it deviates from Rh124 :-/
-- Readings for week 5 posted
+Fixed the week numbering, so that week 5 contains lesson 5 & lab 5 etc
+
+**Week 5** (Mon 12:00)
+
+- Reading fpr the week posted. 
+- No survey this week :)
+- Quiz this week instead :(
+
 
 Course hub updates will be posted on https://acit3620.slack.com, which you
 can join with a my.bcit.ca email address.
