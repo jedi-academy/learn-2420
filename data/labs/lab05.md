@@ -44,7 +44,7 @@ This chapter in the student guide will help you answer the following questions:
 - How many services are running on your server VM?
 - What is the **chronyd** service?
 - For both VMs, if it is running, restart it; if not running, start it
-- What is the **ftpd** service? Make it is not running on either VM
+- What is the **ftpd** service? Make sure it is not running on either VM
 
 
 ###Setting up for this
@@ -123,6 +123,8 @@ From a command prompt on your host,
 From a terminal prompt on your desktop VM,
 
     ssh student@server.vm
+
+NOTE: is ssh is not running, on either of your VMs, you will need to start it.
 
 ##Minimal SSH hardening.
 
