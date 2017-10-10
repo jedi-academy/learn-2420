@@ -2,7 +2,7 @@ Fixed the week numbering, so that week 5 contains lesson 5 & lab 5 etc
 
 **Week 5** (Mon 12:00)
 
-- Reading fpr the week posted. 
+- Reading for the week posted. 
 - No survey this week :)
 - Quiz this week instead :(
 
