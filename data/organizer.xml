@@ -36,19 +36,21 @@ Course organizer for Comp4711
         <lab name="lab05">Ch 8/9 - Control Services and Daemons, specifically SSH</lab>
     </week>
     <week num="6">
-        <topic>Networking</topic>
+        <topic>Analysing and Storing Logs</topic>
+        <lesson name="prep06" icon="dothis" survey="312485">Linux Log Files</lesson>
+        <lab name="lab06">Working with logs</lab>
     </week>
     <week num="7">
         <topic>Investigative Report (Midterm)</topic>
     </week>
     <week num="8">
-        <topic>Software Packages</topic>
+        <topic>Networking</topic>
     </week>
     <week num="9">
-        <topic>File &amp; Virtualized Systems</topic>
+        <topic>Software Packages</topic>
     </week>
     <week num="10">
-        <topic>More Networking</topic>
+        <topic>File &amp; Virtualized Systems</topic>
     </week>
     <week num="11">
         <topic>More Networking</topic>

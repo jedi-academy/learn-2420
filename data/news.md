@@ -1,13 +1,8 @@
-Fixed the week numbering, so that week 5 contains lesson 5 & lab 5 etc
-
-**Week 5** (Tue 10:10)  
-- You may find that the "ifconfig" command is not present in your server VM.
-You can either "yum install net-tools" to install it, or use the
-alternate command "ip addr"
-- Lab 5 posted
+**Week 6** (Mon 02:30)  
 - Reading for the week posted. 
-- No survey this week :)
-- Quiz this week instead :(
+- Survey enabled
+- Lab 6 posted
+- Quiz this week
 
 
 Course hub updates will be posted on https://acit3620.slack.com, which you
