@@ -1,71 +1,52 @@
-#Seminar #6 - Working With Logs
+#Week #7 - Investigative Report
 ACIT3620 - BCIT - Fall 2017
 
 ##Overview
 
-The goal is to evaluate an assigned open-source log monitoring / management tool,
-in four similar-sized teams per set.
+There are a number of tools, emerging technologies and issues relevant to Linux system
+administration, but out of the scope of our course.
 
-Each team will prepare a summary of their tool, using the guideline below, and
-have 10 minutes to demo it in class.
+I have identified 43 of them (one for each of you) to investigate and report
+back to myself and the class on.
 
-##Lab Teams
+##Submission
 
-This is a team lab, with self-assigned team composition.
-If you accidentally end up in the wrong team, see me in lab to fix it.
+This is an individual effort.
 
-##Lab Submission
+There is a rubric to guide you.
 
-Submit your summary, in markdown format, by the end of the day (17:30).
+Submit your investigative report, in markdown format, to its dropbox
+by Sunday Oct 29, 17:30.
 
-The summaries will be shared with the class once I have vetted them.
+##Report parameters
 
-There is a rubric for this lab, that I will use for grading.
+- Perspective: system administration using Linux (eg impact on, expectation of, ...)
+- Format: markdown preferred, as these will be shared with the class
+- Anonymity: indicate if you wish to be identified or not
+- Published: in a new section in the course hub
+- Completion time: 2-3 hours research & report prep
 
-##The Tools
-
-There are four candidate open-source tools:
-
-- [Alioth Logcheck](https://alioth.debian.org/projects/logcheck/)
-- [Elastic Logstash](https://www.elastic.co/products/logstash)
-- [Graylog](https://www.graylog.org/)
-- [Logwatch](https://sourceforge.net/projects/logwatch/)
-
-These came from https://www.tecmint.com/best-linux-log-monitoring-and-management-tools/
-
-##The Targets
-
-There are two servers to consider using the tool for:
-
-- a system hosting 50 webapps on Apache & MySQL; low-traffic (2-5 GB/month)
-
-- a system hosting two webapps on Apache & MySQL; moderate-traffic (5-7 GB/day)
-
-#The Lab
+##Report Contents
 
 **Ask for clarification if needed!**
 
-##Install it
+- Explain/define the topic? 1-2 paras
+- Who is behind it? corp, product, individual - 1-2 paras
+- What do they hope to achieve? 1 para
+- Where do they/it stand? 1 para
+- How to use or play with the tech? 1-2 paras
+- Further reading? unordered list, 3-6 links
 
-Download & install your tool, on two or more of the systems in your group.
-Familiarize yourself with it.
+The above adds up to 6-9 paragraphs, i.e. 1-1.5 printed pages
 
-##Summarize it
+- Pic or two? if appropriate & relevant
+- Perhaps sample code/commands? if relevant
 
-- The Tool
-    - Name
-    - Description
-    - Origin
-    - Claim to fame (what sets it apart from others)
-- Your experience (1-3 paragraphs)
-- Evaluation (1=poor, 5=excellent) ... add notes if needed
-    - installation
-    - documentation
-    - ease of use
-    - overhead
-    - quality of results
-    - recommendation?
+##Process
 
-##Demonstrate it
+In class on Oct 17th, I will have a bag or jar, with the report topics
+on separate slips of paper. You will get to choose one.
 
-You will have 10 minutes to demo the tool to the class.
+Some of the topics have suggested sources or interpretaitons, in brackets after
+the topic name.
+

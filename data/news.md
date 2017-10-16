@@ -1,3 +1,6 @@
+**Week 7** (Mon 03:10)
+- Investigative report requirements posted
+
 **Week 6** (Mon 02:30)  
 - Reading for the week posted. 
 - Survey enabled
