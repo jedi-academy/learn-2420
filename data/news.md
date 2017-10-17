@@ -1,7 +1,8 @@
 **Week 7** (Mon 03:10) 
 - Investigative report requirements posted
 
-**Week 6** (Tue 00:50)  
+**Week 6** (Tue 09:20)  
+- First quiz carnage cleanup
 - Survey results posted
 - Reading for the week posted. 
 - Survey enabled
