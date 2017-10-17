@@ -39,6 +39,7 @@ Course organizer for Comp4711
         <topic>Analysing and Storing Logs</topic>
         <lesson name="prep06" icon="dothis" survey="312485">Linux Log Files</lesson>
         <lab name="lab06">Working with logs</lab>
+        <lesson name="week06" icon="read">Week 6 survey results</lesson>
     </week>
     <week num="7">
         <topic>Investigative Report (Midterm)</topic>
