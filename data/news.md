@@ -2,7 +2,7 @@
 - Investigative report requirements posted
 
 **Week 6** (Tue 09:20)  
-- First quiz carnage cleanup
+- First quiz carnage cleaned up
 - Survey results posted
 - Reading for the week posted. 
 - Survey enabled
