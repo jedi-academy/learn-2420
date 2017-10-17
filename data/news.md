@@ -1,4 +1,4 @@
-**Week 7** (Mon 03:10)
+**Week 7** (Mon 03:10) 
 - Investigative report requirements posted
 
 **Week 6** (Tue 00:50)  
