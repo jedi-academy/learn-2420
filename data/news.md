@@ -1,13 +1,8 @@
-**Week 7** (Mon 03:10)
-- Investigative report requirements posted
-
-**Week 6** (Tue 00:50)  
-- Survey results posted
-- Reading for the week posted. 
-- Survey enabled
-- Lab 6 posted
-- Quiz this week
-
+**Week 8** (Mon 14:30)
+- No required reading/survey this week - I don't know enough about what you
+already know about networking concepts from 2620, and will be relying on
+your guidance (wise or not). I suggest reviewing the 2620 network concepts,
+as we will be working through Chapter 11 in the RHSA guide.
 
 Course hub updates will be posted on https://acit3620.slack.com, which you
 can join with a my.bcit.ca email address.

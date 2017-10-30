@@ -47,9 +47,12 @@ Course organizer for Comp4711
     </week>
     <week num="8">
         <topic>Networking</topic>
+        <lesson name="prep07" >Linux Networking</lesson>
+        <lab name="lab07">Managing Networking</lab>
     </week>
     <week num="9">
         <topic>Software Packages</topic>
+<!--        <lesson name="prep06" icon="dothis" survey="312485">Linux Log Files</lesson>-->
     </week>
     <week num="10">
         <topic>File &amp; Virtualized Systems</topic>
