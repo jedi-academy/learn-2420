@@ -1,15 +1,4 @@
-ACIT 3620, Lab6
-
-Group 3:
-Alex Lilley
-Alex Mori
-Guramrit Gill
-Mark Skerl
-Patrick Rodriguez
-
-Summarize it
-The Tool
-Name: Graylog
+# Graylog
 
 Description: Graylog is a fully integrated, high customizable and open source log management system that enables System Administrators to collect, index, and analyze both framed, systematic and disorganized data from just about any available source systems.
 

@@ -1,5 +1,3 @@
-Log Watch - Group 1: Creighton, Daniele, Fan, Kathy, Roger
-
 # Logwatch
  
 ### Description: 

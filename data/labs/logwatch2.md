@@ -1,6 +1,5 @@
-The Tool
-Name
-LogWatch
+#LogWatch
+
 Description
 customizable log analysis system.
 application that helps with simple log management

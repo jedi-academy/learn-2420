@@ -1,12 +1,5 @@
 # Elastic Logstash
 
-## Members
-* Abraham Al Jundi
-* Sweeha Arya
-* Robin Gill
-* Jed Iquin
-* Daniel Kole
-
 ## Description
 
 Logstash is a web-based pipeline application that accepts input from a “multitude of sources” at the same time and stores the information on a server.

@@ -1,5 +1,4 @@
-Elastic Logstash
-=======
+#Elastic Logstash
 
 What is logstash?
 --------

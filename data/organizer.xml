@@ -71,7 +71,7 @@ Course organizer for Comp4711
         <topic>Final Exam</topic>
     </week>
     <week num="aa">
-        <topic>Log Analysis Programs</topic>
+        <topic>Log Analysis Programs - Lab 6 reports</topic>
         <lab name="graylog1">Graylog (1)</lab>
         <lab name="graylog2">Graylog (2)</lab>
         <lab name="logcheck1">Logcheck (1)</lab>

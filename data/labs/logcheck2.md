@@ -1,16 +1,4 @@
-## **Alex Christensen**
-
-Brett Dixon
-
-Dickson Chan
-
-Mohammed Bajaman
-
-Tommy Do
-
-Yusuke Ito
-
-## **Summary**
+#Alioth Logcheck
 
 * **The Tool**
 
