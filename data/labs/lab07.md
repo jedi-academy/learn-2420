@@ -5,10 +5,10 @@ ACIT3620 - BCIT - Fall 2017
 
 We're going to stick with more of a "by the book" approach for this seminar.
 
-The "lesson" corresponds to section 10.1.
+The "lesson" corresponds to section 11.1.
 
 We want to work through the balance of the chapter, culminating in the "lab"
-found in section 10.11, with notes below.
+found in section 11.11, with notes below.
 
 The student guide refers to IP addresses in the 172.25.x.x range.
 That is how the Red Hat classroom server would be setup, while
@@ -28,10 +28,10 @@ This is an individual lab.
 
 ##Lab Submission
 
-Completion of the "lab", section 10.11 in the student guide, will result
+Completion of the "lab", section 11.11 in the student guide, will result
 in your submission.
 
-In a new terminal window, complete the 10.11 lab steps, adjusting the IP
+In a new terminal window, complete the 11.11 lab steps, adjusting the IP
 address range as appropriate.
 
 We don't have the `lab network grade` script, so we will fake it:
