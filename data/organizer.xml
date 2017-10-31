@@ -70,4 +70,16 @@ Course organizer for Comp4711
     <week num="14">
         <topic>Final Exam</topic>
     </week>
+    <week num="aa">
+        <topic>Log Analysis Programs</topic>
+        <lab name="graylog1">Graylog (1)</lab>
+        <lab name="graylog2">Graylog (2)</lab>
+        <lab name="logcheck1">Logcheck (1)</lab>
+        <lab name="logcheck2">Logcheck (2)</lab>
+        <lab name="logstash1">Logstash (1)</lab>
+        <lab name="logstash2">Logstash (2)</lab>
+        <lab name="logwatch1">Logwatch (1)</lab>
+        <lab name="logwatch2">Logwatch (2)</lab>
+    </week>
+    
 </organizer>
