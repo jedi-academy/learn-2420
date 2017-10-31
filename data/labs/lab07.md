@@ -41,3 +41,6 @@ We don't have the `lab network grade` script, so we will fake it:
 Save the contents of the terminal window in a text file, and submit it to
 the lab07 dropbox.
 
+IF you reboot before saving things, I will go along with just the output 
+showing your network connections and IP addresses.
+
