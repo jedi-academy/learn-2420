@@ -81,5 +81,50 @@ Course organizer for Comp4711
         <lab name="logwatch1">Logwatch (1)</lab>
         <lab name="logwatch2">Logwatch (2)</lab>
     </week>
-    
+    <week num="bb">
+        <topic>Investigative Reports</topic>
+        <assignment icon="read" name="report01">Anti-virus software built into Linux</assignment>
+        <assignment icon="read" name="report02">Augmented reality drivers &amp; support in Linux</assignment>
+        <assignment icon="read" name="report03">Country-flavored Linux</assignment>
+        <assignment icon="read" name="report04">Disk encryption for Linux</assignment>
+        <assignment icon="read" name="report05">Embedded Linux</assignment>
+        <assignment icon="read" name="report06">Implantable Linux</assignment>
+        <assignment icon="read" name="report07">Interoperability between Linux distros</assignment>
+        <assignment icon="read" name="report08">IPSec tunneling support in Linux</assignment>
+        <assignment icon="read" name="report09">Linux &amp; CPU performance scaling</assignment>
+        <assignment icon="read" name="report10">Linux &amp; cryptography</assignment>
+        <assignment icon="read" name="report11">Linux &amp; enterprise pipeline</assignment>
+        <assignment icon="read" name="report12">Linux &amp; gaming support</assignment>
+        <assignment icon="read" name="report13">Linux &amp; hardware sensors</assignment>
+        <assignment icon="read" name="report14">Linux &amp; home automation</assignment>
+        <assignment icon="read" name="report15">Linux &amp; network analysis</assignment>
+        <assignment icon="read" name="report16">Linux &amp; quantum computing</assignment>
+        <assignment icon="read" name="report17">Linux &amp; robotics kits</assignment>
+        <assignment icon="read" name="report18">Linux &amp; the Internet of Things</assignment>
+        <assignment icon="read" name="report19">Linux &amp; two factor authentication</assignment>
+        <assignment icon="read" name="report20">Linux and identity &amp; trust models</assignment>
+        <assignment icon="read" name="report21">Linux and routers</assignment>
+        <assignment icon="read" name="report22">Linux and systems of engagement</assignment>
+        <assignment icon="read" name="report23">Linux compatibility with Windows</assignment>
+        <assignment icon="read" name="report24">Linux for medical/hospital equipment</assignment>
+        <assignment icon="read" name="report25">Linux in space</assignment>
+        <assignment icon="read" name="report26">Linux in toys</assignment>
+        <assignment icon="read" name="report27">Linux in vehicles</assignment>
+        <assignment icon="read" name="report28">Linux infrastructure monitoring</assignment>
+        <assignment icon="read" name="report29">Linux on supercomputers</assignment>
+        <assignment icon="read" name="report30">Linux on Windows &amp; Windows on Linux</assignment>
+        <assignment icon="read" name="report31">Linux politics</assignment>
+        <assignment icon="read" name="report32">Linux protection against DDOS botnets</assignment>
+        <assignment icon="read" name="report33">Linux Provisioning</assignment>
+        <assignment icon="read" name="report34">Linux scanner support</assignment>
+        <assignment icon="read" name="report35">Linux support for animation</assignment>
+        <assignment icon="read" name="report36">Linux support for digital rights management</assignment>
+        <assignment icon="read" name="report37">Linux virtualization support</assignment>
+        <assignment icon="read" name="report38">Linux security</assignment>
+        <assignment icon="read" name="report39">Municipal adoption of Unix</assignment>
+        <assignment icon="read" name="report40">Non-stop Linux</assignment>
+        <assignment icon="read" name="report41">Open source licensing for Linux</assignment>
+        <assignment icon="read" name="report42">Real-time Linux</assignment>
+        <assignment icon="read" name="report43">Trusted Linux</assignment>
+    </week>
 </organizer>
