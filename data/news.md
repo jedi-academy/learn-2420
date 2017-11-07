@@ -1,4 +1,5 @@
-**Week 9** (Mon 11:00)
+**Week 9** (Tue 01:00)
+- Posted the seminar material for today
 - The investigative reports have been investigated, and incorporated
 into the organizer as the last wection ("week 16"), for your
 reading pleasure.
