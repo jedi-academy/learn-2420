@@ -59,14 +59,14 @@ Course organizer for Comp4711
         <topic>File &amp; Virtualized Systems</topic>
     </week>
     <week num="11">
-        <topic>More Networking</topic>
+        <topic> The future is not set</topic>
+        <lesson name="future" icon="dothis" survey="314870">There is no fate but what we make for ourselves.</lesson>
     </week>
     <week num="12">
-        <topic>More Networking</topic>
+        <topic>TBD</topic>
     </week>
     <week num="13">
-        <topic>Comprehensive Review</topic>
-        <topic>Assignment Completion</topic>
+        <topic>TBD</topic>
     </week>
     <week num="14">
         <topic>Final Exam</topic>
