@@ -1,9 +1,6 @@
-**Future** (Tue 23:00)
+**Future** (Fri 17:15)
 
-I have prepared a survey to get your views on the best use
-of our last 3 weeks before the exam.
-Please read the explanation, in week 11 of the organizer,
-and complete the survey before midnight Weds.
+The results are in ... see week 11 below!
 
 **Week 9** (Tue 01:00)
 - Posted the seminar material for today

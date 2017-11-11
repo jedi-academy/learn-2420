@@ -59,14 +59,15 @@ Course organizer for Comp4711
         <topic>File &amp; Virtualized Systems</topic>
     </week>
     <week num="11">
-        <topic> The future is not set</topic>
-        <lesson name="future" icon="dothis" survey="314870">There is no fate but what we make for ourselves.</lesson>
+        <topic>Assignment 1</topic>
+        <lesson name="future" icon="dothis">There is no fate but what we make for ourselves.</lesson>
+        <assignment name="fate" icon="dothis">And here is our fate...</assignment>
     </week>
     <week num="12">
-        <topic>TBD</topic>
+        <topic>Assignment 2</topic>
     </week>
     <week num="13">
-        <topic>TBD</topic>
+        <topic>Assignment 3</topic>
     </week>
     <week num="14">
         <topic>Final Exam</topic>
