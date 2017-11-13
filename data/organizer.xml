@@ -57,6 +57,8 @@ Course organizer for Comp4711
     </week>
     <week num="10">
         <topic>File &amp; Virtualized Systems</topic>
+        <lesson name="prep09" icon="dothis">File &amp; Virtualized Systems</lesson>
+        <lab name="lab09">Putting these to work</lab>
     </week>
     <week num="11">
         <topic>Assignment 1</topic>

@@ -2,8 +2,8 @@
 We will dive into the Raspberry Pi next week and the two following,
 until final exam week.
 
-**Week 10** (Mon 10:15)  
-- Working on this at the moment
+**Week 10** (Mon 13:30)  
+- Prep not needed. Seminar material posted :)
 
 
 **Week 9** (Tue 01:00)
