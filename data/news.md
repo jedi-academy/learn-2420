@@ -1,6 +1,10 @@
-**Future** (Fri 17:15)
+**Week 11**  
+We will dive into the Raspberry Pi next week and the two following,
+until final exam week.
 
-The results are in ... see week 11 below!
+**Week 10** (Mon 10:15)  
+- Working on this at the moment
+
 
 **Week 9** (Tue 01:00)
 - Posted the seminar material for today
@@ -8,11 +12,6 @@ The results are in ... see week 11 below!
 into the organizer as the last wection ("week 16"), for your
 reading pleasure.
 
-**Week 8** (Mon 14:30)
-- No required reading/survey this week - I don't know enough about what you
-already know about networking concepts from 2620, and will be relying on
-your guidance (wise or not). I suggest reviewing the 2620 network concepts,
-as we will be working through Chapter 11 in the RHSA guide.
 
 Course hub updates will be posted on https://acit3620.slack.com, which you
 can join with a my.bcit.ca email address.
