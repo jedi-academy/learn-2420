@@ -55,3 +55,11 @@ Yes, this will be slower than molasses - Pixel in a box inside CentOS in a box o
 Arrange the windows on your desktop to clearly show Pixel running on its box in a box in a box,
 and submit a screenshot of this, for part 2 of the lab.
 
+### What if I run out of room?
+
+Trying to squeeze a VM inside of your desktop VM could be a challenge, especially
+if your VDI file isn't large enough for the ISO you need to download and for the
+Pixel VM you want to create. I found a couple of links that might help:
+
+- https://forums.virtualbox.org/viewtopic.php?f=35&t=50661
+- http://derekmolloy.ie/resize-a-virtualbox-disk/
