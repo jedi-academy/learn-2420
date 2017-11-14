@@ -63,3 +63,12 @@ Pixel VM you want to create. I found a couple of links that might help:
 
 - https://forums.virtualbox.org/viewtopic.php?f=35&t=50661
 - http://derekmolloy.ie/resize-a-virtualbox-disk/
+
+### Is there an alternative to resizing my VDI?
+
+But of course - create a new VDI (16GB?) as part of the storage manager
+for your existing one, and then "mount it" so it becomes part
+of the spacfe available to your CentOS VM.
+
+You will probably need a mount point (empty folder in /), and "mount" the
+new drive. You should see both in Utilities>Disks.
