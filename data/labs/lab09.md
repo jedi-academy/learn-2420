@@ -10,7 +10,7 @@ We want to work through Chapters 14 & 15, with notes below.
 
 ##14 Accessing Linux File Systems <<lab part 1>>
 
-Section 14.1 deals with mounting file systems.
+Section 14.3 deals with mounting file systems.
 I expect this to be a bit awkward because we are running inside VirtualBox,
 which will handle most of the heavy lifting.
 What might work is: make sure that USB support is enabled, and try to mount an
@@ -18,16 +18,16 @@ NTFS-formatted USB key. This is not elegantly handled in CentOS 6, but the suppo
 might be better in CentOS 7. If it mounts with no problems, you should be able to use the
 `blkid` and `umount` commands to unmount it.
 
-Links (section 14.3) are an essential aspect of Linux systems. These are **not** the
+Links (section 14.5) are an essential aspect of Linux systems. These are **not** the
 same as desktop shortcuts or "program information files" in Windows.
 Links are awkward because they are not supported in git, and you would usually
 create a folder with a placeholder inside it, explaining that the folder
 needs to be replaced by an appropriate symbolic link when deployed.
 
-Locating files (section 14.5) is another necessary skill for your toolbox.
+Locating files (section 14.7) is another necessary skill for your toolbox.
 What is the difference between `find` and `locate`?
 
-The review lab (section 14.7) is the one to work through, saving the terminal
+The review lab (section 14.9) is the one to work through, saving the terminal
 output for it only, for submission to the D2L dropbox for this lab.
 
 ##15 Using Virtualized Systems <<lab part 2>>
