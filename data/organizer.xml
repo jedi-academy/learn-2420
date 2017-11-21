@@ -64,12 +64,15 @@ Course organizer for Comp4711
         <topic>Assignment 1</topic>
         <lesson name="future" icon="dothis">There is no fate but what we make for ourselves.</lesson>
         <assignment name="fate" icon="dothis">And here is our fate...</assignment>
+        <assignment name="assignment1" icon="dothis">First Pi Job</assignment>
     </week>
     <week num="12">
         <topic>Assignment 2</topic>
+        <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
     </week>
     <week num="13">
         <topic>Assignment 3</topic>
+        <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
     </week>
     <week num="14">
         <topic>Final Exam</topic>
