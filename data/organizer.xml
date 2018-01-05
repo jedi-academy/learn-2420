@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE organizer SYSTEM "../xml/organizer.dtd">
 <!--
 Course organizer for Comp4711
 -->
@@ -18,14 +17,16 @@ Course organizer for Comp4711
         <lesson name="prep02" icon="dothis">Linux overview</lesson>
         <lab name="lab02">Ch2 - Managing files</lab>
         <lesson name="week02" icon="read">Survey results</lesson>
-    </week>
+ -->
+   </week>
     <week num="3">
         <topic>Editing &amp; User Management</topic>         
  <!--
         <lesson name="prep03" icon="dothis">Ch3 - Getting Help</lesson>
         <lab name="lab03a">Ch4 - Editing text files</lab>
         <lab name="lab03b">Ch5 - Managing users and groups</lab>
-        <!--        <lesson name="week03" icon="read">Week 3 survey results</lesson> -->
+<lesson name="week03" icon="read">Week 3 survey results</lesson>
+-->
     </week>
     <week num="4">
         <topic>Managing Processes</topic>
@@ -34,60 +35,70 @@ Course organizer for Comp4711
         <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
         <lab name="lab04b">Process Practice</lab>
         <lesson name="week04" icon="read">Week 5 survey results</lesson>
-    </week>
+ -->
+   </week>
     <week num="5">
         <topic>Services and Daemons</topic>
  <!--
         <lesson name="prep05" icon="dothis">Service Concepts</lesson>
         <lab name="lab05">Ch 8/9 - Control Services and Daemons, specifically SSH</lab>
-    </week>
+ -->
+   </week>
     <week num="6">
         <topic>Analysing and Storing Logs</topic>
  <!--
         <lesson name="prep06" icon="dothis" survey="312485">Linux Log Files</lesson>
         <lab name="lab06">Working with logs</lab>
         <lesson name="week06" icon="read">Week 6 survey results</lesson>
-    </week>
+ -->
+   </week>
     <week num="7">
         <topic>Midterm</topic>
  <!--
         <lab name="report">Investigative report</lab>
+-->
     </week>
     <week num="8">
         <topic>Networking</topic>
          <!--
 <lesson name="prep07" >Linux Networking</lesson>
         <lab name="lab07">Managing Networking</lab>
-    </week>
+ -->
+   </week>
     <week num="9">
         <topic>Software Packages</topic>
  <!--
         <lesson name="prep08" >Exchanges &amp; Package Management</lesson>
         <lab name="lab08">Putting these to work</lab>
-    </week>
+ -->
+   </week>
     <week num="10">
         <topic>File &amp; Virtualized Systems</topic>
  <!--
         <lesson name="prep09" icon="dothis">File &amp; Virtualized Systems</lesson>
         <lab name="lab09">Putting these to work</lab>
-    </week>
+ -->
+   </week>
     <week num="11">
         <topic>Assignment 1</topic>
  <!--
         <lesson name="future" icon="dothis">There is no fate but what we make for ourselves.</lesson>
         <assignment name="fate" icon="dothis">And here is our fate...</assignment>
         <assignment name="assignment1" icon="dothis">First Pi Job</assignment>
-    </week>
+ -->
+   </week>
     <week num="12">
         <topic>Assignment 2</topic>
  <!--
         <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
+-->
     </week>
     <week num="13">
         <topic>Assignment 3</topic>
  <!--
         <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
-    </week>
+ -->
+   </week>
     <week num="14">
         <topic>Final Exam</topic>
     </week>
@@ -102,7 +113,8 @@ Course organizer for Comp4711
         <lab name="logstash2">Logstash (2)</lab>
         <lab name="logwatch1">Logwatch (1)</lab>
         <lab name="logwatch2">Logwatch (2)</lab>
-    </week>
+   </week>
+ -->
  <!--
     <week num="bb">
         <topic>Investigative Reports</topic>
@@ -150,4 +162,5 @@ Course organizer for Comp4711
         <assignment icon="read" name="report42">Real-time Linux</assignment>
         <assignment icon="read" name="report43">Trusted Linux</assignment>
     </week>
+-->
 </organizer>
