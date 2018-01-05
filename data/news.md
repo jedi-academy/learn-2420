@@ -1,6 +1,4 @@
-**Week 11-13**  
-Hands on Pi :)  
-See the assignment writeups for details!
+** Week 1 **  
+Welcome to ACIT3620 :)  
 
-Course hub updates will be posted on https://acit3620.slack.com, which you
-can join with a my.bcit.ca email address.
+Still sorting out topic order & content, per the course outline.
