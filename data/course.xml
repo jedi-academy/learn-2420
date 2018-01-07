@@ -10,14 +10,14 @@ Course metadata for Comp4711
     <subtitle>ACIT3620</subtitle>
     <author>James L. Parry</author>
     <email>jim_parry@bcit.ca</email>
-    <outline>http://www.bcit.ca/study/outlines/20173034734</outline>
-    <session>Fall 2017</session>
+    <outline>http://www.bcit.ca/study/outlines/20181085413</outline>
+    <session>Winter 2018</session>
     <school>B.C. Institute of Technology</school>
     <site>https://www.bcit.ca/study/programs/5520diplt#PGM_CONTENT</site>
     <license>MIT License</license>
 	
 	<!-- D2L specifric fields -->
-	<ou>407483</ou>
+	<ou>446835</ou>
     
     <!-- An introduction, shown at the top of the course homepage -->
     <intro>
