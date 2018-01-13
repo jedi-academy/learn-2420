@@ -14,7 +14,7 @@ As an IT professional, especially for any work in devops or system
 administration, you cannot avoid open source tools. That makes you part of the group who
 should see "beyond free".
 
-Read the essay. Then take the survey linked to in the organizer to let me know about any topics, raised by
+Read the essay. Then take the survey linked to in the organizer (before 9pm Sunday) to let me know about any topics, raised by
 your reading, that you would like me to expound on in class. 
 
 Three sources, catoring to different learning styles...
