@@ -1,5 +1,5 @@
 #Seminar #2 - Managing Files from the Command Line
-ACIT3620 - BCIT - Fall 2017
+ACIT3620 - BCIT - Winter 2018
 
 ##Overview
 
@@ -37,11 +37,9 @@ partner, for support. You need individual submissions, even in that case.
 
 The "lab02" dropbox has been setup for you to use for this lab.
 
-**Before completing step 15** in the lab exercise, where you remove your "vacation"
-directory, make a zip of your home directory.
-Submit this zip to the lab02 dropbox.
+See the end of this writeup for the file you need to submit.
 
-Due: Sunday, Sep 24, 17:30 PST
+Due: Sunday, Jan 21, 17:30 PST
 
 ##Lab Marking Guideline
 
@@ -50,7 +48,7 @@ and deducting for minor (1 mark) or major (2 marks) booboos.
 
 #Finally, The Lab
 
-I will tell a few stories (below) at the beginning of each section of
+I will tell a few stories at the beginning of each section of
 the lab :)
 
 ##File systems (20 mins)
@@ -76,3 +74,11 @@ the lab :)
 ##Lab Exercise (20 mins)
 
 Complete the lab exercise, 2.9 in your student guide.
+
+Use the "tree" command to build your submission:
+
+- yum install tree
+- cd ~
+- tree > mytree.txt
+
+And submit the mytree.txt file to your dropbox.

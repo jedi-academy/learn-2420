@@ -1,26 +1,28 @@
 #Seminar #2 Online Prep
-ACIT3620 - BCIT - Fall 2017
-
-We will be continuing with the RH124 material this week, using the "desktop"
-VM that you setup last week.
+ACIT3620 - BCIT - Winter 2018
 
 Something that was clear last week was, that you collectively do not
-have a broad understanding of Linux.
+have a broad understanding of Linux, or of the open source culture
+it is part of. 
+Many people use open source software because it is "free", but many
+others use it because they agree with and/or support the culture surrounding it.
 
-Fortunately, Red Hat has a [Linux Technical Overview](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview)
-short video series, to provide some background and context.
+This "open source culture" was best explained in an essay, "The Cathedral and the Bazaar",
+written by Eric Raymond in 1997-1999. It is essential reading for those
+who hope to see beyond the "free" label of OSS, or those who should.
+As an IT professional, especially for any work in devops or system 
+administration, you cannot avoid open source tools. That makes you part of the group who
+should see "beyond free".
 
-Follow the above link, and you will have to register (yet again, sigh), but
-the videos will help orient you to the Linux environment.
+Read the essay. Then take the survey linked to in the organizer to let me know about any topics, raised by
+your reading, that you would like me to expound on in class. 
 
-Please watch the first five of those short videos (#5 is "What is the Linux Kernel 
-and What is User Space?"), which should take about 45 minutes.
-Then complete the week 3 survey linked to in the organizer. 
-There are no right or wrong answers -
-I want to understand how *you* perceive Linux, and to share the
-summarized survey results with the class.
+Three sources, catoring to different learning styles...
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) has
+the highlights of the essay, and links to...
+- Eric Raymond's [online version](http://www.catb.org/~esr/writings/cathedral-bazaar/) of the essay,
+which can be a bit hard to navigate, so fortunately we have...
+- Stefan Unsterstein hosts a [PDF version](http://www.unterstein.net/su/docs/CathBaz.pdf) of the essay
 
-**Note:** D2L is giving me the gears and not letting me assemble the survey properly.
-I will enable the link once it is ready, and post a message on our slack channel.
-Feel free to watch the videos in the meantime - the survey isn't based on specific
-content from them :-/
+The essay PDF contains 40 pages, but the last 10 of those are end notes and commentary, not 
+needed unless you are curious.

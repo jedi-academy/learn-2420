@@ -11,11 +11,9 @@ Course organizer for Comp4711
     </week>
     <week num="2">
         <topic>Managing Files &amp; Getting Help</topic>         
-        <!--
-               <lesson name="prep02" icon="dothis">Linux overview</lesson>
+               <lesson name="prep02" icon="dothis" survey="328516">Linux culture</lesson>
                <lab name="lab02">Ch2 - Managing files</lab>
-               <lesson name="week02" icon="read">Survey results</lesson>
-        -->
+<!--               <lesson name="week02" icon="read">Survey results</lesson> -->
     </week>
     <week num="3">
         <topic>Working With Text Files &amp; Managing Users</topic>         
