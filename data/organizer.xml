@@ -18,7 +18,7 @@ Course organizer for Comp4711
     </week>
     <week num="3">
         <topic>Working With Text Files &amp; Managing Users</topic>         
-                <lesson name="prep03" icon="dothis" survey="329257">Ch3 - Getting Help</lesson>
+                <lesson name="prep03" icon="dothis" survey="329284">Ch3 - Getting Help</lesson>
         <!--
                 <lab name="lab03a">Ch4 - Editing text files</lab>
                 <lab name="lab03b">Ch5 - Managing users and groups</lab>
