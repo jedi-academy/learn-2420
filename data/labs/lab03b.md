@@ -1,5 +1,5 @@
 #Seminar #3b - Managing Local Users and Groups
-ACIT3620 - BCIT - Fall 2017
+ACIT3620 - BCIT - Winter 2018
 
 ##Overview
 
@@ -37,10 +37,11 @@ partner, for support. You need individual submissions, even in that case.
 
 The "lab03" dropbox has been setup for you to use for this lab.
 
-Download the **[lab03check.sh](/download/lab03check.sh)** bash script to your VM, and run it as root...
+Download the **[lab03check.sh](/download/lab03check.sh)** bash script to your VM.
+Once you have completed the lab exercise, this script is meant to be run as root...
 
         clear
-        sh ./lab03check.sh
+        sudo sh ./lab03check.sh
 
 Three ways to submit...
 
@@ -49,10 +50,10 @@ do a screen capture to submit.
 
 2) In your terminal window, "edit > select all" and paste the result into a text file to submit.
 
-3) Run the command as `sh ./lab03check.sh >>submission.txt` to give you the file to submit.
+3) Run the command as `sudo sh ./lab03check.sh >>submission.txt` to give you the file to submit.
 
 
-Due: Sunday, Oct 1, 17:30 PST
+Due: Sunday, Jan 28, 17:30 PST
 
 ##Lab Marking Guideline
 
@@ -82,5 +83,8 @@ Complete the lab exercise, 5.11 in your student guide.
 The last step calls for running "lab localusers grade" ...
 that is a script setup on the virtual classroom server,
 and not part of your local install.
-I am working on replicating it for you to use ...
-details in class.
+This is replaced by the "lab03check" script mentioned above.
+
+The provided script doesn't check everything, but is good
+enough under the circumstances :-/
+

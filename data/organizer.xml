@@ -11,18 +11,18 @@ Course organizer for Comp4711
     </week>
     <week num="2">
         <topic>Managing Files &amp; Getting Help</topic>         
-               <lesson name="prep02" icon="dothis">Linux culture</lesson>
-               <lab name="lab02">Ch2 - Managing files</lab>
-               <lesson name="week02" icon="read">Survey results</lesson>
-               <lesson name="bazaar" icon="read">Cathedral &amp; Bazaar Takeaways</lesson>
+        <lesson name="prep02" icon="dothis">Linux culture</lesson>
+        <lab name="lab02">Ch2 - Managing files</lab>
+        <lesson name="week02" icon="read">Survey results</lesson>
+        <lesson name="bazaar" icon="read">Cathedral &amp; Bazaar Takeaways</lesson>
     </week>
     <week num="3">
         <topic>Working With Text Files &amp; Managing Users</topic>         
-                <lesson name="prep03" icon="dothis" survey="329284">Ch3 - Getting Help</lesson>
+        <lesson name="prep03" icon="dothis" survey="329284">Ch3 - Getting Help</lesson>
+        <lab name="lab03a">Ch4 - Editing text files</lab>
+        <lab name="lab03b">Ch5 - Managing users and groups</lab>
         <!--
-                <lab name="lab03a">Ch4 - Editing text files</lab>
-                <lab name="lab03b">Ch5 - Managing users and groups</lab>
-        <lesson name="week03" icon="read">Week 3 survey results</lesson>
+       <lesson name="week03" icon="read">Week 3 survey results</lesson>
         -->
     </week>
     <week num="4">

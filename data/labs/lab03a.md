@@ -1,5 +1,5 @@
 #Seminar #3a - Editing Text Files
-ACIT3620 - BCIT - Fall 2017
+ACIT3620 - BCIT - Winter 2018
 
 ##Overview (Chapter 4)
 
@@ -40,7 +40,8 @@ Nothing is to be handed in for this exercise.
 
 ##Editing Text Files from the Shell Prompt (20 mins)
 
-- vim
+- vim? (the "party line")
+- nano (a friendlier alternative!)
 
 ##Editing Text Files with a Graphical Editor (35 mins)
 
