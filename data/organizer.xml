@@ -25,6 +25,7 @@ Course organizer for Comp4711
     </week>
     <week num="4">
         <topic>Assignment 1</topic>
+            <assignment icon="read" name="assignment1">Vanilla Pi</assignment>
         <!--
                <lesson name="prep04" icon="dothis">Process Concepts</lesson>
                <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
