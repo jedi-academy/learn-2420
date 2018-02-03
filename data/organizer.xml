@@ -27,22 +27,21 @@ Course organizer for Comp4711
         <topic>Assignment 1</topic>
         <lesson name="prep04" icon="dothis" survey="330024">Pi Background</lesson>
         <assignment icon="read" name="assignment1">Vanilla Pi</assignment>
-        <!--
-                  <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
-                   <lab name="lab04b">Process Practice</lab>
-               <lesson name="week04" icon="read">Week 5 survey results</lesson>
-        -->
     </week>
     <week num="5">
         <topic>Managing Files and Processes</topic>
+        <lesson name="prep05" icon="dothis" survey="330779">Grokking Permissions &amp; Processes</lesson>
+        <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
+        <lab name="lab04b">Process Management</lab>
         <!--
-               <lesson name="prep05" icon="dothis">Service Concepts</lesson>
-               <lab name="lab05">Ch 8/9 - Control Services and Daemons, specifically SSH</lab>
+        <lesson name="week05" icon="read">Week 5 survey results</lesson>
         -->
     </week>
     <week num="6">
         <topic>Managing Services and Daemons</topic>
         <!--
+               <lesson name="prep05" icon="dothis">Service Concepts</lesson>
+               <lab name="lab05">Ch 8/9 - Control Services and Daemons, specifically SSH</lab>
                <lesson name="prep06" icon="dothis" survey="312485">Linux Log Files</lesson>
                <lab name="lab06">Working with logs</lab>
                <lesson name="week06" icon="read">Week 6 survey results</lesson>

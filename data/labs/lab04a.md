@@ -1,60 +1,63 @@
-#Seminar #4a - Monitoring and Managing Linux Processes
-ACIT3620 - BCIT - Fall 2017
+#Seminar #4a - Monitor and Manage Processes
+ACIT3620 - BCIT - Winter 2018
 
-##Overview (Chapter 7)
+##Kickoff
 
-Goal 
-- To evaluate and control processes running on a Red Hat Linux system.
+At the beginning of our seminar, I will answer any questions
+you have about permissions (Chapter 6), and then want to
+talk about processes (Section 7.1).
 
+###Processes Lecturette
 
-Objectives 
-- List and interpret basic information about processes
-running on the system.
-- Control processes in the shell's session using bash job
-control.
-- Terminate and control processes using signals.
-- Monitor resource usage and system load due to process
-activity.
-
-Sections
-- Processes (and Practice)
-- Controlling Jobs (and Practice)
-- Killing Processes (and Practice)
-- Monitoring Process Activity (and Practice)
-
-Lab
-- Monitoring and Managing Linux Processes
-
-##Lab Teams
-
-Complete this individually, in your desktop VM, although there is merit to working in parallel with a 
-partner, for support. You need individual submissions, even in that case.
-
-##Lab Submission
-
-Nothing has to be handed in for this part of our seminar.
-
-#Finally, The Lab
-
-##Processes (20 mins)
-
-- Process concepts
-- Process word map
-- Process differences between platforms
-
-##Controlling Jobs (20 mins)
-
+- big vs small
+- parent vs child
+- heavy vs light
+- spawn vs fork
+- background vs foreground
+- daemon or not
+- kernel vs user
+- process differences between platforms
 - Job vs Process vs Thread vs Fiber(?)
+- shell scripts as jobs?
 
-##Killing Processes (20 mins)
+###Exercise
 
-- Family tree
-- Differences between platforms
+Once the notion of processes is clear, read/work through the
+rest of Chapter 7 in your student guide, to make sure
+you "get" the basics of processes.
 
-##Monitoring Process Activity (30 mins)
+You want to be able to:
+- explain what a Linux process is
+- demonstrate the basic commands to manipulate processes
 
-- The three bears
+Caution: you will need to use a grain of salt with some of the student
+guide. It relies on the environment procided by the classroom
+server (eg `hippo` process), which doesn't match ours exactly.
+We will need to improvise a bit :-/
 
-##Lab Exercise 
+###Alternate Exercise
 
-Spun off into separate document, "lab04b".
+If you find the student guide too hard to follow without the classroom server,
+here is an alternate set of exercises that should achieve the same purpose.
+Do them instead of (or in addition to) the student guide exercises, but
+using the student guide and Linux help (remember that from earlier?)
+as needed.
+
+- Run Firefox in the background ...
+- Run gedit in the background ...
+- Run gnome-calculator ...
+- Suspend the calculator process ...
+- Send it to the background ...
+- View which processes are running in the background ...
+- Send the calculator process to the foreground ...
+- Cancel the calculator process ...
+- Log in as root in another terminal window ...
+- Find the PID of Firefox ...
+- Cancel Firefox using the pid ...
+- Verify that Firefox was cancelled via the command line  ...
+- Cancel all gedit processes  ...
+
+###Submission?
+
+Nothing has to be handed in for this part of the seminar...
+that is for part 2 :)
