@@ -1,9 +1,7 @@
-**Network Maintenance**  
-The campus networks will be down for maintenance from 6pm Saturday until
-6am Sunday. This impacts email, D2L, and on-campus network access!
-
 **Week 5**  
-Weekend reading posted & survey enabled (closes 9pm Sun).  
+Weekend reading posted.  
+I have gone through the surveys and answered some of the questions.
+The rest will make for a lively seminar start this week :)
 
 Lab 4 posted.
 
