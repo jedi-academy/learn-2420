@@ -13,7 +13,7 @@ I am adjusting the weekly schedule to address these, as follows:
 - weeks 8-10: seminars on services/daemons, logs, and networking; with spring break in there too,
 not counting as one of the weeks;
 quiz & lab on each topic
-- week 11: assignment 3 (needs these last 3 topics)
+- week 11: hardening and attacking CentOS; start on assignment 3 (needs these last 3 topics)
 - week 12: no seminar (Easter Monday); assignment completion on your own
 - week 13: seminar on backups; review; pi vs pi playoffs
 - week 14: exam

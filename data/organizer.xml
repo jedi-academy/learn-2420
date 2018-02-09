@@ -70,11 +70,10 @@ Course organizer for Comp4711
         -->
     </week>
     <week num="11">
-        <topic>Assignment 3</topic>
+        <topic>Hardening CentOS &amp; Assignment 3</topic>
         <!--
                <lesson name="future" icon="dothis">There is no fate but what we make for ourselves.</lesson>
                <assignment name="fate" icon="dothis">And here is our fate...</assignment>
-               <assignment name="assignment1" icon="dothis">First Pi Job</assignment>
         -->
     </week>
     <week num="12">
