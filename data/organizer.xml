@@ -36,14 +36,8 @@ Course organizer for Comp4711
         <lesson name="week05" icon="read">Week 5 survey questions</lesson>
     </week>
     <week num="6">
-        <topic>Managing Services and Daemons</topic>
-        <!--
-               <lesson name="prep05" icon="dothis">Service Concepts</lesson>
-               <lab name="lab05">Ch 8/9 - Control Services and Daemons, specifically SSH</lab>
-               <lesson name="prep06" icon="dothis" survey="312485">Linux Log Files</lesson>
-               <lab name="lab06">Working with logs</lab>
-               <lesson name="week06" icon="read">Week 6 survey results</lesson>
-        -->
+        <topic>Assignment 2</topic>
+                <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
     </week>
     <week num="7">
         <topic>Midterm</topic>
@@ -52,15 +46,19 @@ Course organizer for Comp4711
         -->
     </week>
     <week num="8">
-        <topic>Analyzing Logs</topic>
+        <topic>Managing Services and Daemons</topic>
         <!--
        <lesson name="prep07" >Linux Networking</lesson>
-               <lab name="lab07">Managing Networking</lab>
+               <lesson name="prep05" icon="dothis">Service Concepts</lesson>
+               <lab name="lab05">Ch 8/9 - Control Services and Daemons, specifically SSH</lab>
         -->
     </week>
     <week num="9">
-        <topic>Assignment 2</topic>
+        <topic>Analyzing Logs</topic>
         <!--
+               <lesson name="prep06" icon="dothis" survey="312485">Linux Log Files</lesson>
+               <lab name="lab06">Working with logs</lab>
+               <lesson name="week06" icon="read">Week 6 survey results</lesson>
                <lesson name="prep08" >Exchanges &amp; Package Management</lesson>
                <lab name="lab08">Putting these to work</lab>
         -->
@@ -68,12 +66,11 @@ Course organizer for Comp4711
     <week num="10">
         <topic>Managing Networking</topic>
         <!--
-               <lesson name="prep09" icon="dothis">File &amp; Virtualized Systems</lesson>
-               <lab name="lab09">Putting these to work</lab>
+               <lab name="lab07">Managing Networking</lab>
         -->
     </week>
     <week num="11">
-        <topic>Backups &amp; Software Packages</topic>
+        <topic>Assignment 3</topic>
         <!--
                <lesson name="future" icon="dothis">There is no fate but what we make for ourselves.</lesson>
                <assignment name="fate" icon="dothis">And here is our fate...</assignment>
@@ -81,15 +78,16 @@ Course organizer for Comp4711
         -->
     </week>
     <week num="12">
-        <topic>File Systems &amp; Virtualized Systems</topic>
+        <topic>Assignment 3 completion</topic>
         <!--
-                <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
+               <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
         -->
     </week>
     <week num="13">
-        <topic>Assignment 3</topic>
+        <topic>Backups &amp; Review</topic>
         <!--
-               <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
+               <lesson name="prep09" icon="dothis">File &amp; Virtualized Systems</lesson>
+               <lab name="lab09">Putting these to work</lab>
         -->
     </week>
     <week num="14">
