@@ -53,7 +53,16 @@ that I can copy & paste into a worksheet for analysis. Columns, in order:
 
 The above numeric values are roughly the scale (0-terrible, 1-poor, 2-ok, 3-good, 4-excellent).
 
-Ask if you are unsure about CSV format!
+CSV format has a set of text values, separated by commas. It is a common exchange format
+for spreadsheet data.
+
+For example, if you evaluated the banana process monitoring package, and came up with
+ratings of 5, 5, 0 and zero (trivial to install and use, but useless),
+that would be expressed through the string 
+
+    banana,5,5,0,0
+
+That would be put into the "comment" form field when you are submitting your writeup.
 
 This is an individual lab.
 
