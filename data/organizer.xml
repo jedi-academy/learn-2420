@@ -30,7 +30,7 @@ Course organizer for Comp4711
     </week>
     <week num="5">
         <topic>Managing Files and Processes</topic>
-        <lesson name="prep05" icon="dothis" survey="330779">Grokking Permissions &amp; Processes</lesson>
+        <lesson name="prep05" icon="dothis">Grokking Permissions &amp; Processes</lesson>
         <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
         <lab name="lab04b">Process Management</lab>
         <lesson name="week05" icon="read">Week 5 survey questions</lesson>
@@ -38,7 +38,8 @@ Course organizer for Comp4711
     </week>
     <week num="6">
         <topic>Assignment 2</topic>
-                <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
+        <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
+        <lesson name="pigui" icon="read">How about a GUI?</lesson>
     </week>
     <week num="7">
         <topic>Midterm</topic>
