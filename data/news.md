@@ -1,3 +1,15 @@
+**CentOS on your Pi**  
+The article linked to in the writeup explains the process of installing CentOS on a Pi,
+but does not reference the most up-to-date version of Centos.
+It also references a minimal install, with no GUI :-O
+
+Try
+http://mirror.centos.org/altarch/7.4.1708/isos/aarch64/CentOS-7-aarch64-rootfs-7.4.1708.tar.xz
+instead ... a "proper" version with a GUI.
+
+Alternately, the NOOBS install SD card, which many of you have already, can
+setup CentOS for you.
+
 **Lab 4**  
 These labs have been graded, and the ratings tallied.
 See the week 5 tab for details.
