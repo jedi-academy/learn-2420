@@ -1,6 +1,8 @@
 **Week 8**  
 This week's seminar (Lab 5) posted.
 
+**Updated the PiGUI notes!**
+
 **CentOS on your Pi**  
 Added a bit of a writeup in the "week 6" organizer tab
 addressing a GUI on CentOS on the Pi.

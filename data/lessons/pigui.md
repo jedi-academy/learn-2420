@@ -1,6 +1,19 @@
 #Want a GUI on CentOS 7 on the Pi?
 ACIT3620 - BCIT - Winter 2018
 
+#Arghhhhhh
+
+It looks like a GUI for CentOS on the Pi is wishful thinking :(
+I checked with some students from last term, and they do not recall any shared success getting
+this to happen when they did their corresponding assignment.
+
+I will not expect a GUI for your Pi CentOS.
+
+If needed, switch your Pi activity to one that doesn't need a GUI,
+and which is different from the one you did on Raspbian for assignment 1.
+
+------------------
+
 Installing minimal CentOS 7 on the Pi will work for many of you, but not all.
 The article linked to in the writeup explains the process of installing CentOS on a Pi,
 but does not reference the most up-to-date version of Centos.
