@@ -1,6 +1,9 @@
 **Week 8**  
 This week's seminar (Lab 5) posted.
 
+Note: part of the lab talks about filtering TCP ports ... that info is not in the `systemctl` output.
+You can use the `netstat -a` conmmand to see the ports used :-/
+
 **Updated the PiGUI notes!**
 
 **CentOS on your Pi**  
