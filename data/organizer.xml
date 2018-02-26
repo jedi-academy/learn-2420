@@ -46,11 +46,7 @@ Course organizer for Comp4711
     </week>
     <week num="8">
         <topic>Managing Services and Daemons</topic>
-        <!--
-       <lesson name="prep07" >Linux Networking</lesson>
-               <lesson name="prep05" icon="dothis">Service Concepts</lesson>
-               <lab name="lab05">Ch 8/9 - Control Services and Daemons, specifically SSH</lab>
-        -->
+        <lab name="lab05">Ch 8/9 - Control Services and Daemons, specifically SSH</lab>
     </week>
     <week num="9">
         <topic>Analyzing Logs</topic>

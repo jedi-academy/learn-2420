@@ -1,15 +1,17 @@
 #Seminar #5 - Services & Daemons
-ACIT3620 - BCIT - Fall 2017
+ACIT3620 - BCIT - Winter 2018
 
 ##Overview
 
-I liked the format of last week's lab, with you exploring some stuff on your own,
+I liked the format of the last lab, with you exploring some stuff on your own,
 while using the Red Hat Student Guide to fall back on for the core material.
 
 This lab  is somewhat similar :)
 
 The goal is to setup secure remote shell access to your server VM, while
 gaining some insights into services and daemons along the way.
+Your "server VM" could be your Pi, namely a running instance
+of a minimal CentOS :-/
 
 ##Lab Teams
 
@@ -31,6 +33,17 @@ Submit your piece(s) to the lab 5 dropbox.
 
 There is no rubric for this lab. I will start from a reasonable completion point, 
 and deduct marks if you mess things up.
+
+##Other Perspectives
+
+Here are some slightly different interpretations of the same subject,
+Linux services :-/
+
+- https://www.lifewire.com/what-is-etc-services-2196940
+- http://www.makeuseof.com/tag/control-linux-start-services-daemons/
+- http://www.ixwebhosting.com/support/st_kb/managing-services-on-linux-servers/
+
+
 
 #Finally, The Lab
 
