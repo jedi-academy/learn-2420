@@ -1,11 +1,12 @@
-**Week 9** 
+**Week 9**  
 This week's seminar (lab 6) is posted, and there is an optional survey
 if you have questions for me to address at the beginning of class next week.
 
 Yes, there will be a quiz next week ... the rumours are true!
 It will be a "fun quiz" (i.e. not counting for marks, so you can see
 the style) on the topic of "processes".  
-There will be three real quizzes after spring break, 
+There will be two or three real quizzes after spring break :-O
+
 **Week 8**  
 This week's seminar (Lab 5) posted.
 
