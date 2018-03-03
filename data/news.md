@@ -1,3 +1,11 @@
+**Week 9** 
+This week's seminar (lab 6) is posted, and there is an optional survey
+if you have questions for me to address at the beginning of class next week.
+
+Yes, there will be a quiz next week ... the rumours are true!
+It will be a "fun quiz" (i.e. not counting for marks, so you can see
+the style) on the topic of "processes".  
+There will be three real quizzes after spring break, 
 **Week 8**  
 This week's seminar (Lab 5) posted.
 
@@ -14,28 +22,3 @@ If you can't get it working, then switch to a Pi activity, that you haven't done
 and which can be completed from the command line.\
 If this is the case, explain your activity switch in your assignment
 writeup.
-
-**Lab 4**  
-These labs have been graded, and the ratings tallied.
-See the week 5 tab for details.
-
-**Week 7 (midterm)**  
-I bet you're happy to have the midterm behind you!  
-A solution has been posted in the content/midterm section on D2L;
-the files are named `zsetup.sh` and `zwork.sh`.
-
-I have marked the midterms, and published the feedback on D2L.  
-I started out posting comments about what was wrong with incorrect
-answers, but that was taking waaaaaay too long, so I reverted to
-choosing the appropriate part mark, as appropriate.
-
-The class average was 37/60 (62%), and the median was 42/60 (70%).
-Results ranged from a low of 0 to a high of 56 (93%).
-Do take a look at your results, and I will answer questions about
-the midterm next week in class.
-
--------------------
-
-Reminder: I have tweaked the schedule and topics for the balance
-of the course.
-
