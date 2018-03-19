@@ -1,11 +1,13 @@
 #Seminar #7 - Managing Networking
-ACIT3620 - BCIT - Fall 2017
+ACIT3620 - BCIT - Winter 2018
 
 ##Overview
 
 We're going to stick with more of a "by the book" approach for this seminar.
+I had planned a workshop/lab on a "watchdog" monitoring package, but
+they get over-complicated too rapidly for our purposes.
 
-The "lesson" corresponds to section 11.1.
+The "lesson" corresponds to section 11.1, namely networking concepts.
 
 We want to work through the balance of the chapter, culminating in the "lab"
 found in section 11.11, with notes below.
@@ -16,6 +18,12 @@ our addresses are assigned in a 142.232.x.x range in lab.
 Adjust commands and examples accordingly.
 
 ##Lab parts, per the student guide
+
+Networking concepts should be familiar from your networking course, ACIT2620.
+What we want to get out of the student guide is an understanding of the
+naming conventions for devices and connections, in CentOS7;
+its network configuration files and choices; and basic familiarity with
+the command line management of our network connection.
 
 - validating network configuration
 - configuring networking with `nmcli`
@@ -41,6 +49,8 @@ We don't have the `lab network grade` script, so we will fake it:
 Save the contents of the terminal window in a text file, and submit it to
 the lab07 dropbox.
 
-IF you reboot before saving things, I will go along with just the output 
-showing your network connections and IP addresses.
+**CAUTION**: the lab writeup in the student guide has you reboot part way through.
+You need to save your terminal history in a test file **before** rebooting,
+and append to it after tebooting. If you don't, you run the tisk of having to 
+repeat part of the lab :'(
 
