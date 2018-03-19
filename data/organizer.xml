@@ -57,14 +57,14 @@ Course organizer for Comp4711
     <week num="10">
         <topic>Managing Networking</topic>
         <!--
-               <lesson name="prep08" >Exchanges &amp; Package Management</lesson>
-               <lab name="lab08">Putting these to work</lab>
                <lab name="lab07">Managing Networking</lab>
-        -->
+       -->
     </week>
     <week num="11">
         <topic>Hardening CentOS &amp; Assignment 3</topic>
         <!--
+                <lesson name="prep08" >Exchanges &amp; Package Management</lesson>
+               <lab name="lab08">Putting these to work</lab>
                <lesson name="future" icon="dothis">There is no fate but what we make for ourselves.</lesson>
                <assignment name="fate" icon="dothis">And here is our fate...</assignment>
         -->
