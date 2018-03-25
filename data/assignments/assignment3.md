@@ -1,5 +1,5 @@
 #Assignment 3 - Third Pi
-ACIT3620 - BCIT - Fall 2017
+ACIT3620 - BCIT - Winter 2018
 
 ##Overview
 

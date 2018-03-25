@@ -60,6 +60,7 @@ Course organizer for Comp4711
     </week>
     <week num="11">
         <topic>Hardening CentOS &amp; Assignment 3</topic>
+        <lesson name="prep11" icon="dothis" survey="337916">Prep reading</lesson>
         <!--
                 <lesson name="prep08" >Exchanges &amp; Package Management</lesson>
                <lab name="lab08">Putting these to work</lab>

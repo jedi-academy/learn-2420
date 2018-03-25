@@ -1,8 +1,8 @@
 # Resources for ACIT3620
 
 ## Red Hat Linux
-[Red Hat Enterprise Linux](https://netbeans.org/downloads/) with commercial support  
-[CentOS](https://www.jetbrains.com/student/) - community supported
+[Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) with commercial support  
+[CentOS](https://www.centos.org/) - community supported
 
 ## Tools
 [Oracle VirtualBox](https://www.virtualbox.org/) for virtualization  
