@@ -1,8 +1,5 @@
 **Week 11**  
-I have posted some prep notes/reading, and a survey.
-
-Our work this week applies learnings from the student guide,
-but is not directly based on it!
+Security talking points and assignment 3 posted. Bring your Pi!
 
 There will be a quiz this week, on logging (chapter 10).
 

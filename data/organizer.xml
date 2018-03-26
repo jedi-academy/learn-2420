@@ -61,24 +61,24 @@ Course organizer for Comp4711
     <week num="11">
         <topic>Hardening CentOS &amp; Assignment 3</topic>
         <lesson name="prep11" icon="dothis" survey="337916">Prep reading</lesson>
-        <!--
-                <lesson name="prep08" >Exchanges &amp; Package Management</lesson>
-               <lab name="lab08">Putting these to work</lab>
-               <lesson name="future" icon="dothis">There is no fate but what we make for ourselves.</lesson>
-               <assignment name="fate" icon="dothis">And here is our fate...</assignment>
-        -->
+        <lesson name="week11" icon="read">Security survey results</lesson>
+        <lesson name="security" >Security talking points</lesson>
+        <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
     </week>
     <week num="12">
         <topic>Assignment 3 completion</topic>
-        <!--
-               <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
-        -->
     </week>
     <week num="13">
         <topic>Backups &amp; Review</topic>
         <!--
                <lesson name="prep09" icon="dothis">File &amp; Virtualized Systems</lesson>
                <lab name="lab09">Putting these to work</lab>
+        -->
+        <!--
+                <lesson name="prep08" >Exchanges &amp; Package Management</lesson>
+               <lab name="lab08">Putting these to work</lab>
+               <lesson name="future" icon="dothis">There is no fate but what we make for ourselves.</lesson>
+               <assignment name="fate" icon="dothis">And here is our fate...</assignment>
         -->
     </week>
     <week num="14">
