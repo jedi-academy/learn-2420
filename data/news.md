@@ -1,3 +1,11 @@
+**Assignment 3**  
+I have agreed to extend the deadline for assignment 3, to Monday evening.
+This will give you a chance to perform attacks on other teams' Pis during
+lab. You will not have the whole lab for this, but hopefully an hour.
+
+I want to address any missing bits of system administration, and to
+do a review. Details posted for the weekend :)
+
 **Week 11**  
 Security talking points and assignment 3 posted. Bring your Pi!
 
