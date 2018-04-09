@@ -70,8 +70,9 @@ Course organizer for Comp4711
     </week>
     <week num="13">
         <topic>Backups &amp; Review</topic>
-               <lesson name="prep13" icon="dothis">Wrapup &amp; Review</lesson>
-               <lesson name="review">Review</lesson>
+        <lesson name="prep13" icon="dothis">Wrapup &amp; Review</lesson>
+        <lesson name="review">Review</lesson>
+        <lesson name="review_1">... and the commands to go with it</lesson>
         <!--
                <lab name="lab09">Putting these to work</lab>
         -->
