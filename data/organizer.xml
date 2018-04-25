@@ -86,7 +86,10 @@ Course organizer for Comp4711
     <week num="14">
         <topic>Final Exam</topic>
     </week>
-    <!--
+    <week num="xx">
+        <topic>Debriefing</topic>
+         <lesson name="content" icon="read">Course content survey results</lesson>
+   </week>    <!--
        <week num="aa">
            <topic>Log Analysis Programs - Lab 6 reports</topic>
            <lab name="graylog1">Graylog (1)</lab>
