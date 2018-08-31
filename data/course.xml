@@ -5,23 +5,23 @@ Course metadata for Comp4711
 -->
 <course>
     <!-- Course metadata -->
-    <code>acit3620</code>
+    <code>acit2420</code>
     <title>System Administration Using Linux</title>
-    <subtitle>ACIT3620</subtitle>
+    <subtitle>ACIT2420</subtitle>
     <author>James L. Parry</author>
     <email>jim_parry@bcit.ca</email>
-    <outline>http://www.bcit.ca/study/outlines/20181085413</outline>
+    <outline>http://www.bcit.ca/study/outlines/20183045073</outline>
     <session>Winter 2018</session>
     <school>B.C. Institute of Technology</school>
     <site>https://www.bcit.ca/study/programs/5520diplt#PGM_CONTENT</site>
     <license>MIT License</license>
 	
 	<!-- D2L specifric fields -->
-	<ou>446835</ou>
+	<ou>484286</ou>
     
     <!-- An introduction, shown at the top of the course homepage -->
     <intro>
         This webapp is an ongoing experiment to leverage the course materials for 
-        ACIT3620 at BCIT, making them easier to access.
+        ACIT2420 at BCIT, making them easier to access.
     </intro>
 </course>
