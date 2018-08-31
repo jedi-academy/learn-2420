@@ -4,14 +4,14 @@
 School: School of Computing and Academic Studies  
 Program: Computer Information Technology  
 Course Credits: 4  
-Start Date: January 08, 2018  
-End Date: April 20, 2018  
+Start Date: September 04, 2018  
+End Date: December 14, 2018  
 Total Hours: 60  
 Total Weeks: 15  
 Hours/Weeks: 4  
 Delivery Type: Online + seminar  
 Prerequisites: ACIT 1420  
-CRN: 85413  
+CRN: 45073  
 
 ## Course description
 The objective of this course is to teach students basic Network Operating System administration tasks using
@@ -31,19 +31,20 @@ These equip the student to take the Red Hat Certified System Administrator Exam 
 
 ## Course learning outcomes / competencies
 Upon successful completion of this course, the student will be able to:  
-- Install and use X windows.
-- Install and configure hardware for Linux.
-- Define the necessary components and functions of an operating system.
-- Identify and explain the responsibilities associated with server administration and management.
-- Describe the benefits of automation management.
-- Identify the need for policies governing of IT systems.
-- Identify the need to train users on IT systems and policies.
-- Describe the similarities and differences between Windows and Unix-class systems.
-- Network using TCP/IP.
-- Create and manage users and groups.
-- Modify the configuration of an operating system.
-- Analyze the advantages and disadvantages of installing patches.
-- Install system patches.
+- Access the command line.
+- Manage files from the command line.
+- Access help & documentation.
+- Create, view, and edit text files.
+- Manage local users and groups.
+- Control access to files.
+- Monitor and manage processes.
+- Control services and daemons
+- Configure and secure OpenSSH service.
+- Analyze and store system logs.
+- Manage networking.
+- Archive and copy files between systems.
+- Install and update software packages.
+- Access Linux file systems.
  
 
 ## Evaluation criteria
@@ -61,7 +62,9 @@ Students missing more than two labs will receive an Unsatisfactory grade in the 
 ) (RH124). Students will need to register online with
 Gilmore Global’s [Red Hat Academy learning portal](https://rhlearn.gilmore.ca), to gain access to the student guide.  
 Alternately, or additionally, Red Hat's [System Administrator's Guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/index.html) will be a valuable reference.
-- Students may need to install two [CentOS 7](https://centos.org) instances, in [virtualized containers](virtualbox.org), to perform lab exercises.
+- Students will need to install several [CentOS 7](https://centos.org) instances, in [virtualized containers](virtualbox.org) 
+and/or using a [virtual machine](https://www.vmware.com/products/workstation-pro.html), to perform lab exercises.
+- Students will need to purchase a Raspberry Pi starter kit (about $100), possibly split with a partner, to complete the assignments.
 
 ## Other information
 This course builds on Red Hat Inc's System Administration I course, which has an online student guide available
