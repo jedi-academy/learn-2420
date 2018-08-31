@@ -2,7 +2,7 @@
 **Jim Parry**  
 <jim_parry@bcit.ca>   
 Online collaboration; announced first class.  
-In office meeting can be requested Mon 11:30-13:20, between classes
+In office meeting can be requested Tue 11:30-13:20, between classes
 
 ## Desire2Learn LMS
 [Calendar](https://learn.bcit.ca/d2l/le/calendar/{ou})  
