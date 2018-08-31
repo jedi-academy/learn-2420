@@ -20,5 +20,5 @@ In office meeting can be requested Mon 11:30-13:20, between classes
 
 ##Course Related
 [Course outline]({outline})  
-[Slack team](https://acit3620.slack.com) - for notifications & FAQ  
-[Course repo](https://github.com/jedi-academy/learn-3620) - open-sourced, for those who want to look "under the hood"    
+[Slack team](https://acit2620.slack.com) - for notifications & FAQ  
+[Course repo](https://github.com/jedi-academy/learn-2420) - open-sourced, for those who want to look "under the hood"    
