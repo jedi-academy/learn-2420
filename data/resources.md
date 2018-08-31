@@ -5,12 +5,14 @@
 [CentOS](https://www.centos.org/) - community supported
 
 ## Tools
-[Oracle VirtualBox](https://www.virtualbox.org/) for virtualization  
+[Oracle VirtualBox](https://www.virtualbox.org/) for software virtualization  
+VMware [Workstation Pro](https://www.vmware.com/products/workstation-pro.html) for Windows 
+or [Fusion](https://www.vmware.com/products/fusion.html) for Mac; for hardware virtualization  
 
 ## Documentation
 RHEL 7 [System Administrator's Guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/index.html)  
 
-## Red Hat Certification
+## Red Hat Certification (thru the Academy)
 System Administration I [RH124](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i)  
 System Administration II [RH134](https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii)  
 Certified System Administrator [RHCSA](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)  

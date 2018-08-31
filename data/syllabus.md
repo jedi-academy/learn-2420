@@ -2,7 +2,7 @@
 
 ## Course Metadata
 School: School of Computing and Academic Studies  
-Program: Computer Information Technology  
+Program: Computer Information Technology Diploma  
 Course Credits: 4  
 Start Date: September 04, 2018  
 End Date: December 14, 2018  
