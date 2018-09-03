@@ -1,5 +1,5 @@
-#Environment Setup  
-ACIT3620 - BCIT - Fall 2017
+#Week 1 - Environment Setup  
+ACIT2420 - BCIT - Fall 2018
 
 Before we can get down to work on the seminar/lab material, you need an environment to work in.
 
@@ -7,19 +7,15 @@ Before we can get down to work on the seminar/lab material, you need an environm
 
 There are several downloads needed:
 
-- [CentOS LiveGNOME](http://buildlogs.centos.org/rolling/7/isos/x86_64/CentOS-7-x86_64-LiveGNOME.iso) <1.2GB> for your "client"
-- [CentOS Minimal](http://buildlogs.centos.org/rolling/7/isos/x86_64/CentOS-7-x86_64-Minimal.iso) <633MB> for your "server"
+- [CentOS LiveGNOME](http://mirror.its.sfu.ca/mirror/CentOS/7.5.1804/isos/x86_64/CentOS-7-x86_64-LiveGNOME-1804.iso) <1.3GB> for your "client"
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) <80MB> to host these
 
-You may wish to start the downloads at your convenience. The "server" does not have to be setup today, but
-the other two do.In fact, hold off on the server - we will try to handle that aspect of
-our material totally on the Raspberry Pi!
-
+You may wish to start the downloads at your convenience. 
 Note: you just need to download these - they do not have to be burned onto any optical or removable media.
 
 ##Academy registration
 
-Remember the privacy warnings from the introduction lesson!
+Remember the privacy warnings from the introduction presentation!
 If you are willing to proceed...
 
 Follow the RH Academy student registration link from D2L, and signup for a Red Hat
@@ -72,7 +68,7 @@ platform.
 Start VirtualBox.
 
 Create a new VM, after mounting the "LiveGNOME" iso file as the optical drive
-for it. Your VM should have 4GB of RAM assigned, and 8GB of disk space.
+for it. Your VM should have 4GB of RAM assigned, and 10GB of disk space.
 
 Name the VM "desktopXX", where XX is the last two digits of your student number.
 
@@ -80,18 +76,18 @@ You can create a fixed size VM, for better performance, but give it lots of
 space, eg. double the suggested size. We will be adding more goodies as the course
 goes on.
 
-Once the VM is created, it will boot from the "optical drive", into
+Once the VM is created, it will boot from the "optical drive" when you start it, into
 LiveGNOME. Take the "Install to hard disk" option from the desktop,
 and install CentOS.
 
-Set the root password to "redhat" (acknowledging that this is insecure),
+**Set the root password to "redhat" (acknowledging that this is insecure),
 and add a user "student" with a password of "student".
-This will then match the instructions in the learning guide.
+This will then match the instructions in the learning guide.**
 
 An added bonus: it will be hard to forget your passwords :D
 
-Today's lab will be completed using this "client" CentOS VM.
-
 ##You should be good to go!
 
-Once you have your "client" VM fully setup, you are ready for today's lab proper.
+Once you have your "client" VM fully setup, feel free to play with CentOS.
+There will be readings / online videos assigned for you to absorb
+before next week's class, when we dive into Linux in earnest!

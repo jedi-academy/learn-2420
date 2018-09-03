@@ -5,15 +5,15 @@ Course organizer for Comp4711
 <organizer>
     <week num="1">
         <topic>Introduction &amp; Command Line</topic>
-        <!--
                 <lesson name="intro01">Course introduction</lesson>
                 <tutorial name="setup01">Installation &amp; setup</tutorial>
-                <lab name="lab01">Ch1 - Command line</lab>
+        <!--
         -->
     </week>
     <week num="2">
         <topic>Managing Files &amp; Getting Help</topic>         
         <!--
+                <lab name="lab01">Ch1 - Command line</lab>
         <lesson name="prep02" icon="dothis">Linux culture</lesson>
         <lab name="lab02">Ch2 - Managing files</lab>
         <lesson name="week02" icon="read">Survey results</lesson>

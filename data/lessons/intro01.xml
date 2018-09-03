@@ -10,7 +10,7 @@ Lesson 00 - In-class Only Introduction
         <ul>
             <li>Day job: BCIT instructor</li>
             <li>Unix (Solaris) and Linux (CentOS) user &amp; sysadmin for 20+ years</li>
-            <li>Contact: SW2-124, email instead</li>
+            <li>Contact: DTC-617, email instead</li>
             <li>Email: jim_parry@bcit.ca</li>
         </ul>
     </slide>
@@ -48,8 +48,8 @@ Lesson 00 - In-class Only Introduction
         <p>RH Classroom server ... Red Hat has a classroom server, mentioned
             in and assumed by the student guide. We are not using that,
             and will have to make allowances.</p>
-        <p>You will setup CentOS on your own systems ... two instances, each in a VirtualBox
-            VM.</p>        
+        <p>You will setup CentOS on your own systems ... one instance to start with, 
+            using a VirtualBox VM. Later on, we will use VMware and also the Pi.</p>        
     </slide>
 
     <slide title="Deviating from Normal ..." layout="normal">
@@ -63,13 +63,13 @@ Lesson 00 - In-class Only Introduction
             <li>Flipped LMS - our course hub has deep links into D2L,
                 rather than the other way around.</li>
             <li>"Authentic" assessment - hands-on labs, with proof of successful
-                completion.</li>
+                completion; hands-on midterm and hands-on final!</li>
         </ul>
     </slide>
 
     <slide title="Our Course Hub" layout="normal">
         <h2>
-            <a href="https://acit3620.jlparry.com" target="_blank">ACIT3620 
+            <a href="https://acit2420.jlparry.com" target="_blank">ACIT2420 
                 Course Hub</a>
         </h2>
         <ul>
@@ -79,7 +79,7 @@ Lesson 00 - In-class Only Introduction
             <li>Organizer, and *my* lessons, tutorials, and lab/assignment writeups all on our course hub.</li>
             <li>Any Red Hat proprietary material will be on D2L.</li>
             <li>Labs/walkthroughs done individually, although some will be in pairs.</li>
-            <li>Assignments done in small teams.</li>
+            <li>Assignments done in pairs, and they will tie-in with ACIT2515.</li>
         </ul>
     </slide>
 
