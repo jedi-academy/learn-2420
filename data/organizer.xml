@@ -5,20 +5,15 @@ Course organizer for Comp4711
 <organizer>
     <week num="1">
         <topic>Introduction &amp; Command Line</topic>
-                <lesson name="intro01">Course introduction</lesson>
-                <tutorial name="setup01">Installation &amp; setup</tutorial>
-        <!--
-        -->
+        <lesson name="intro01">Course introduction</lesson>
+        <tutorial name="setup01">Installation &amp; setup</tutorial>
     </week>
     <week num="2">
         <topic>Managing Files &amp; Getting Help</topic>         
-        <!--
-                <lab name="lab01">Ch1 - Command line</lab>
-        <lesson name="prep02" icon="dothis">Linux culture</lesson>
-        <lab name="lab02">Ch2 - Managing files</lab>
-        <lesson name="week02" icon="read">Survey results</lesson>
-        <lesson name="bazaar" icon="read">Cathedral &amp; Bazaar Takeaways</lesson>
-        -->
+        <lesson name="prep02" icon="dothis">Linux Intro</lesson>
+        <lab name="lab00">Ch1 - Command line</lab>
+        <lab name="lab01">Ch2 - Managing files</lab>
+        <lesson name="bazaar" icon="read">The Cathedral &amp; the Bazaar</lesson>
     </week>
     <week num="3">
         <topic>Bash shell scripting</topic>         
