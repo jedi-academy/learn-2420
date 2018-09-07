@@ -1,3 +1,11 @@
+**Week 2 - Sept 11/12**  
+You should have registered for the Red Hat Academy, and gotten access
+to the SysAdmin I Student Guide. 
+You should also have VirtualBox installed, with a CentOS VM.  
+If either of these if not the case, see me at the beginning of class!
+
+There might be a room change - check your timetable before class!
+
 **Welcome to ACIT2420**
 
 Welcome to ACIT2420, Linux System Administration :)
