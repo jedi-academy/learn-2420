@@ -18,6 +18,7 @@ Course organizer for Comp4711
     <week num="3">
         <topic>Bash shell scripting</topic>         
         <lesson name="prep03" icon="dothis">Ch4 - Editing Text Files</lesson>
+        <lab name="lab02">Shell Scripting</lab>
     </week>
     <week num="4">
         <topic>Managing Users &amp; Groups</topic>         

@@ -1,7 +1,7 @@
 **Week 3 - Sept 18/19**  
 Prep for this week: work through Chapter 4 in the student guide.
 
-I am also working on a further timetable improvement, to put the Weds group in 581 :)
+The Weds group will indeed be in 581 :)
 
 **Week 2 - Sept 11/12**  
 You should have registered for the Red Hat Academy, and gotten access
