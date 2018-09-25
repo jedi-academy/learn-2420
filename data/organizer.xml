@@ -19,15 +19,13 @@ Course organizer for Comp4711
         <topic>Bash shell scripting</topic>         
         <lesson name="prep03" icon="dothis">Ch4 - Editing Text Files</lesson>
         <lab name="lab02">Shell Scripting</lab>
-        <lab name="faq02" icon="read">Lab 2 FAQ</lab>
+        <lab name="faq02" icon="read">Lab 2 FAQ</lab>        
     </week>
     <week num="4">
         <topic>Managing Users &amp; Groups</topic>         
          <lesson name="prep04" icon="dothis">Vagrant</lesson>
-        <!--
-        <lab name="lab03b">Ch5 - Managing users and groups</lab>
-       -->
-    </week>
+        <lab name="lab03">Managing users and groups</lab>
+     </week>
     <week num="5">
         <topic>Assignment 1</topic>
         <!--

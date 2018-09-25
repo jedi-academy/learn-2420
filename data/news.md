@@ -1,6 +1,8 @@
 **Week 4 - Sept 25/26**  
 Prep for this week: play with Vagrant ... see the organizer tab below :)
 
+Seminar posted :)
+
 **Week 3 - Sept 18/19**  
 Prep for this week: work through Chapter 4 in the student guide.
 
