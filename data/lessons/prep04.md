@@ -12,7 +12,7 @@ Install a CentOS7 Vagrant box...
 
 Switch to one of your folders with something you would like to test on Linux, and...
 
-    vagrant init
+    vagrant init centos/7
     vagrant up
     vagrant ssh
 
