@@ -39,7 +39,7 @@ Vagrant!
 
 Some of the upcoming labs will start with a vagrant box supplied by me :-/
 
-ps. Looking for a lab 2 solution? One possible one is [here](/downloads/tellmeastory.sh).
+ps. Looking for a lab 2 solution? One possible one is [here](/download/tellmeastory.sh).
 
 #Finally, The Lab
 
