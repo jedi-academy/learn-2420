@@ -1,69 +1,67 @@
 #Assignment 1 - Vanilla Pi
-ACIT3620 - BCIT - Winter 2018
+ACIT2420 - BCIT - Fall 2018
 
 ##Overview
 
 You are going to get your Raspberry Pi running, and do one of the Pi
-learning activities, assigned by team below.
+learning activities described below.
 
 ##Teams
 
-This can be done as a pair, or individually. Either way, sign up for one of the "Pi team" groups
-on D2L.
+This can be done as a pair, or individually. Either way, sign up for one of the "Pi team" groups on D2L.
 
 Each "team" will need their own Raspberry Pi kit.
 It can be as simple as the basic starter kit, or you are
 welcome to get one of the more elaborate ones, with additional
 accessories.
 
+You will probably find a network cable handy, whether to plug your Pi into
+one of the network drops, or to add it to your PC's network.
+If you have an HDMI cable, you can take advantage of one of the pod monitors.
+A bluetooth keyboard could come in handy too. 
+
+##Food for Thought
+
+A little birdie has whispered in my ear that the second
+and third assignments in 2420 and 2515 will be on your Pi: setting up CentOS
+on it for 2420, and building a Python API/service on it for 2515.
+
+Another little birdie was heard thinking out loud about the possibility that the Pi could
+make a great platform for some of the 2620 exercises, especially since you
+already have one. That would involve you getting a separate memory card.
+
+Don't let your math teacher see 
+[this blog page](https://www.r-bloggers.com/how-to-install-the-latest-version-of-r-statistics-on-your-raspberry-pi/)!
+
 ##Pi Setup
 
 Assemble or cobble together your Pi, with Raspbian OS installed on it.
+That should be the deafult.
 
 ##Pi Activity
 
-Complete one of the **Activities** in the second
-section on the [Pi learning page](https://www.raspberrypi.org/resources/learn/).
+The [Pi learning page](https://www.raspberrypi.org/resources/learn/).
+has a number of **Activities** in the lower half of the webpage.
+Each team should choose one of them.
 
-Each activity should be completed by a single group only, per the list below. 
+ 
 
 ###Group & Activity
 
-1.	Getting Started with the Twitter API
-1.	Dress for the weather
-1.	Secret Agent Chat
-1.	N Days of Christmas
-1.	Astro Pi Flight Data Analysis
-1. Weightlessness Space Game
-1.	Gravity Simulator
-1.	Sense HAT Minecraft Map
-1.	Python Web Server with Flask
-1.	Astronaut Reaction Time Game
-1.	Turtle Snowflakes
-1.	Kids Ruby Quiz
-1.	Build a LAMP Web Server with WordPress
-1.	Time-lapse Setup
-1.	Story Time
-1.	Code a carol
-1.	Sense HAT advent calendar
-1.	Naughty and nice
-1.	OctaPi: calculating Pi
-1.	OctaPi: brute-force Enigma
-1.	Pride and Prejudice for zombies
-1.	Where’s Zombie?
-1.	Zombie apocalypse survival map
-1.	Poo near you
-1.	Shakespearean insult generator
-1.	Talk Like a Pirate
-1.	Mapping The Weather
-1.	Cat meme generator
-1.	Graphing The Weather
-1.	Fetching the Weather
+- [Zombie apocalypse survival map](https://projects.raspberrypi.org/en/projects/zombie-apocalypse-map) ... 
+making a webpage, with CSS & Javascript; uses a GoogleMaps API key, hmmm
+- [Shakespearean insult generator](https://projects.raspberrypi.org/en/projects/shakespearean-insult-generator) ...
+python program to show random ages-old insults that you save in a CSV file
+- [Talk like a Pirate](https://projects.raspberrypi.org/en/projects/talk-like-a-pirate) ...
+webpage using jQuery to translate mere mortal speech into proper pirate talk
+- [Turtle snowflakes](https://projects.raspberrypi.org/en/projects/turtle-snowflakes) ... draw snowflakes in python
+- [Gravity Simulator](https://projects.raspberrypi.org/en/projects/gravity-simulator) ...
+animated on-screen sprites, built using [Scratch](https://scratch.mit.edu/) visual programming tool
+- [Weightlessness Space Game](https://projects.raspberrypi.org/en/projects/weightlessness) ...
+a world-class (?) game, also built using Scratch
 
-Choose your team #, and hence activity, that suits your Pi accessories. You may have to install additional
-software on your Pi as part of the activity.
-If your team has been assigned an activity which requires Pi accessories that you do not have, let me know
-and I can remove you from that group.
+Two python activities, two javascript, and two Scratch activities to choose from ... your call :)
+
 
 ##Submission
 
@@ -71,11 +69,25 @@ Build a simple word processed document with:
 
 - a description of your Pi build, specifically which kit you started with and which
 accessories (if any) you added
-- a picture of your Pi running Raspbian OS
+- one or more pictures of your Pi running Raspbian OS
 - a brief report on doing your activity
 - one or more screenshots or images of your completed activity running
 
-Submit your document to the assignment 1 dropbox, by Sunday Feb 4, 17:30.
+Basically, tell the story of your Pi  experience.
+Images need to be good enough resolution that the reader can tell they
+came from a Pi. Screenshots would be lovely, but problematic.
+
+Submit your document to the assignment 1 dropbox, by Sunday Oct 7, 17:30.
+
+##Grading
+
+A rubric has been attached to the assignment dropbox.
+It has three categories, each graded on a scale of 1 to 5.
+
+Full marks for  
+- Build: clearly described build description with legible images
+- Completion: clear description of the activity & challenges along the way
+- Success: clear description of how you went above & beyond the base activity
 
 ###Disclaimer
 

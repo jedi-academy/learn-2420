@@ -23,15 +23,13 @@ Course organizer for Comp4711
     </week>
     <week num="4">
         <topic>Managing Users &amp; Groups</topic>         
-         <lesson name="prep04" icon="dothis">Vagrant</lesson>
+        <lesson name="prep04" icon="dothis">Vagrant</lesson>
         <lab name="lab03">Managing users and groups</lab>
-     </week>
+    </week>
     <week num="5">
         <topic>Assignment 1</topic>
-        <!--
-        <lesson name="prep05" icon="dothis" survey="330024">Pi Background</lesson>
+        <lesson name="prep05" icon="dothis" survey="366760">Pi Background</lesson>
         <assignment icon="read" name="assignment1">Vanilla Pi</assignment>
-        -->
     </week>
     <week num="6">
         <topic>Managing Files and Processes</topic>
