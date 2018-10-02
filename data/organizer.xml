@@ -30,6 +30,7 @@ Course organizer for Comp4711
         <topic>Assignment 1</topic>
         <lesson name="prep05" icon="dothis" survey="366760">Pi Background</lesson>
         <assignment icon="read" name="assignment1">Vanilla Pi</assignment>
+        <lesson name="week05" icon="read">Pi Thoughts (week 5) survey results</lesson>
     </week>
     <week num="6">
         <topic>Managing Files and Processes</topic>

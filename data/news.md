@@ -1,6 +1,8 @@
 **Week 5 - Oct 2/3**  
 Pi time. See tab below.
 
+Survey results posted, below.
+
 **Week 4 - Sept 25/26**  
 Prep for this week: play with Vagrant ... see the organizer tab below :)
 
