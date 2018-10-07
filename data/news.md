@@ -1,3 +1,23 @@
+**Week 7 - Oct 17**  
+This is our midterm, 8:30-10:30 Tues Oct 17, in 581.
+I arranged the time so I can be available in case of
+questions. Details will be announced closer to the exam.
+
+**Week 6 - Oct 9/10**  
+This week, we will be experimenting with D2L's virtual classroom to run our seminars.
+
+I will fire up two sessions for each seminar (since they can only last 90 minutes).
+I would like to see one student from each pod login to the virtual classroom,
+and they can share their screen on the pod's large monitor. Students in the same pod
+can then ask questions using the logged in station.
+
+I don't trust that there is enough bandwidth for everyone to login at the same
+time, so we shall see how this works.
+
+I am going to hold the seminar in two parts - one on file permissions and
+one on processes. This is based on feedback from last term, where there
+were misunderstandings about permissions and how they work.
+
 **Week 5 - Oct 2/3**  
 Pi time. See tab below.
 
