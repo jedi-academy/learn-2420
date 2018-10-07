@@ -34,10 +34,9 @@ Course organizer for Comp4711
     </week>
     <week num="6">
         <topic>Managing Files and Processes</topic>
-        <!--
-        <lesson name="prep05" icon="dothis">Grokking Permissions &amp; Processes</lesson>
-        <lab name="lab04a">Ch7 - Monitor and Manage Processes</lab>
-        <lab name="lab04b">Process Management</lab>
+        <lesson name="prep06" icon="dothis">Grokking Permissions &amp; Processes</lesson>
+ <!--        <lab name="lab04">Monitor and Manage Processes</lab>
+       <lab name="lab04b">Process Management</lab>
         <lesson name="week05" icon="read">Week 5 survey questions</lesson>
         <lesson name="lab04results" icon="read">Lab 4b results</lesson>
         -->
