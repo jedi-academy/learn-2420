@@ -1,5 +1,5 @@
-**Week 7 - Oct 17**  
-Week 7 is midterm week, and ours is 8:30-10:30 Tues Oct 17, in 581.
+*Week 7 - Oct 17*  
+Week 7 is midterm week, and ours is 8:30-10:30 Tues Oct **16**, in 581.
 I arranged the time so I can be available in case of
 questions. Details will be announced closer to the exam.
 
