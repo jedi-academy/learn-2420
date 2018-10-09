@@ -1,3 +1,23 @@
+**Virtual classroom experiment**
+
+At 8:30, I will fire up a virtual classroom on D2L for us.
+
+I don't know how well it will work - that is part of the experiment!
+I will be "broadcasting" from my temporary apartment here in Dongguan,
+and it has sporadically excellent bandwidth (it sometimes drops off for
+a few minutes). 
+
+I don't know which A/V settings will work best, for me or for you.
+I have headphones with a mic, but only a headphone jack on my laptop,
+so am planning to use the built-in webcam and microphone.
+
+If the VC doesn't go well, I will switch over to Windows,
+and try a VPN connection from this end.
+
+We may have to do some chatting on slack :-/
+
+Thank you for your patience, and I shall see you shortly in the VC :)
+
 *Week 7 - Oct 17*  
 Week 7 is midterm week, and ours is 8:30-10:30 Tues Oct **16**, in 581.
 I arranged the time so I can be available in case of
