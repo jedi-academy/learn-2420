@@ -1,4 +1,23 @@
-**Virtual classroom experiment**
+**Virtual classroom experiment - Weds Oct 10**
+
+Yesterday's experiment was not the most successful :(
+We learned lots, but the firewall, platform support,
+and bandwidth issues crippled the session.
+One artifact from the session is a pair of
+slack channels inside our umbrella ACIT2420 one,
+addressing file permissions and processes,
+respectively.
+
+For today, I have setup an account with [Zoom](https://zoom.us),
+and we will give that a go.
+
+Shortly before 11:30, I will post an invite on D2L.
+I haven't used Zoom before, but I suspect you
+will need to download a player for your system.
+
+
+
+**Virtual classroom experiment - Tues Oct 9**
 
 At 8:30, I will fire up a virtual classroom on D2L for us.
 
@@ -17,7 +36,6 @@ and try a VPN connection from this end.
 We may have to do some chatting on slack :-/
 
 Thank you for your patience, and I shall see you shortly in the VC :)
-
 *Week 7 - Oct 17*  
 Week 7 is midterm week, and ours is 8:30-10:30 Tues Oct **16**, in 581.
 I arranged the time so I can be available in case of
