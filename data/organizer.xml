@@ -37,14 +37,10 @@ Course organizer for Comp4711
         <lesson name="prep06" icon="dothis">Grokking Permissions &amp; Processes</lesson>
         <lab name="lab04a">File Permissions</lab>
         <lab name="lab04b">Monitor and Manage Processes</lab>
-        <!--       <lesson name="week05" icon="read">Week 5 survey questions</lesson>
-        <lesson name="lab04results" icon="read">Lab 4b results</lesson>
-        -->
     </week>
     <week num="7">
         <topic>Midterm</topic>
-        <!--
-        -->
+        <lesson name="prep07" icon="dothis">Midterm Prep</lesson>
     </week>
     <week num="8">
         <topic>Managing Services and Daemons</topic>
