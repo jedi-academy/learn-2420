@@ -5,6 +5,17 @@ questions.
 
 I have posted some midterm prep notes in the week 7 tab.
 
+I have not had a chance to grade lab 4, sorry, nor to post a solution for it.
+I am still working on that.
+
+The midterm is to be found in the "Midterm"  content section of our D2L instance.
+It will become available at 08:30, and the dropbox has a due date of 10:30.
+I will be on our slack channel to answer any questions (in the general channel).
+
+I have simplified things, with only three scripts to write for the exam.
+
+Good luck!
+
 **Week 6 - Oct 9/10**  
 We came, we tried to see, and learned some useful remote classroom lessons,
 thank you. I wasn't very impressed with D2L's Virtual Classroom;
