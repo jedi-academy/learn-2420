@@ -1,3 +1,10 @@
+**Midterm Solution**
+
+Solutions for the first two challenges on the midterm have been posted, together with a readme, in
+the "midterm" content section on D2L.
+
+The part 3 solution will follow "soon".
+
 **Week 7 - Oct 16**  
 Week 7 is midterm week, and ours is 8:30-10:30 Tues Oct **16**, in 581.
 I arranged the time so I can be available in case of
