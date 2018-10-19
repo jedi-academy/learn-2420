@@ -1,12 +1,15 @@
-#Seminar #8 Exchanging Files & Installing Packages
-ACIT3620 - BCIT - Fall 2017
+#Seminar #8 Online Prep
+ACIT2420 - BCIT - Fall 2018
 
-No specific prep for this week - we are going to work through Chapters
-12 (Archiving and Copying Files Between Systems) and 
-13 (Installing and Updating Software Packages).
+In lab this week, you will be exploring services,
+and then configuring your SSH service appropriately.
 
-They aren't hard, and you should have no problems in class.
+Background reading for this week: 
+- https://www.lifewire.com/what-is-etc-services-2196940
+- http://www.makeuseof.com/tag/control-linux-start-services-daemons/
+- http://www.ixwebhosting.com/support/st_kb/managing-services-on-linux-servers/
 
-The big deal with Chapter 12 is understanding the **tar**, **scp** and **sync** commands:
+The above present slightly different interpretations of the same subject,
+Linux services :-/
 
-The big deal with Chapter 13 is understanding & working with **RPM** and **yum**.
+I look forward to questions at the beginning of class :)

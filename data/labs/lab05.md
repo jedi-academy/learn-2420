@@ -1,5 +1,5 @@
 #Seminar #5 - Services & Daemons
-ACIT3620 - BCIT - Winter 2018
+ACIT2420 - BCIT - Fall 2018
 
 ##Overview
 
@@ -34,16 +34,6 @@ Submit your piece(s) to the lab 5 dropbox.
 There is no rubric for this lab. I will start from a reasonable completion point, 
 and deduct marks if you mess things up.
 
-##Other Perspectives
-
-Here are some slightly different interpretations of the same subject,
-Linux services :-/
-
-- https://www.lifewire.com/what-is-etc-services-2196940
-- http://www.makeuseof.com/tag/control-linux-start-services-daemons/
-- http://www.ixwebhosting.com/support/st_kb/managing-services-on-linux-servers/
-
-
 
 #Finally, The Lab
 
@@ -63,7 +53,8 @@ This chapter in the student guide will help you answer the following questions:
 ###Setting up for this
 
 You may need to reconfigure your VMs, lowering the main memory assigned to them.
-You will want both fired up for this.
+You will want "both" fired up for this (that should be two CentOS instances for 
+this lab - the one you already have, and a "minimal" one with no GUI - thje "server").
 
 ###Student Guide
 
@@ -172,6 +163,4 @@ multiple possible logins for the same user, each from a different machine; OR
 the machine you want to SSH from, resulting in the same keypair used (& stored)
 on each of your client systems.
 
-Which is better?
-
-
+Which is better? (no correct answer, just opinions)
