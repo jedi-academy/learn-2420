@@ -1,3 +1,8 @@
+**Week 8 - Oct 23/24**  
+There is some background reading for this week ... I updated the week 8 tab
+in the organizer, but forgot to say anything here in the news,
+sorry.
+
 **Midterm Solution**
 
 Solutions for the first two challenges on the midterm have been posted, together with a readme, in
