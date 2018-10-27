@@ -1,5 +1,5 @@
-#Seminar #6 - Working With Logs
-ACIT3620 - BCIT - Winter 2018
+#Lab #6 - Working With Logs
+ACIT2420 - BCIT - Fall 2018
 
 ##Overview
 
@@ -12,27 +12,26 @@ have 5-10 minutes to demo it in class.
 ##Lab Teams
 
 This is a team lab, with self-assigned team composition.
+I have made a new group category, `logteams`, for this.
 If you accidentally end up in the wrong team, see me in lab to fix it.
 
 ##Lab Submission
 
-Submit your summary, before the day after lab (08:30).
+Submit your summary, by 17:30 Sunday.
 
 The summaries may be shared with the class once I have vetted them.
 
-There is a rubric for this lab, that I will use for grading.
+There will be a rubric for this lab, that I will use for grading.
 
 ##The Tools
 
 There are some candidate open-source tools shown below.
 My intent is that each of the teams in a set investigate a different tool.
 
-- [Alioth Logcheck](https://alioth.debian.org/projects/logcheck/)
 - [Elastic Logstash](https://www.elastic.co/products/logstash)
 - [fluentd](https://www.fluentd.org/)
 - [Graylog](https://www.graylog.org/)
 - [Logwatch](https://sourceforge.net/projects/logwatch/)
-- [MultiTail](http://www.vanheusden.com/multitail/)
 - [Nagios](https://www.nagios.com/solutions/linux-log-monitoring/)
 - [Swatch](http://sourceforge.net/projects/swatch/)
 

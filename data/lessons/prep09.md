@@ -1,21 +1,20 @@
-#Seminar #9 File &amp; Virtualized Systems
-ACIT3620 - BCIT - Fall 2017
+#Seminar #6 Online Prep
+ACIT2420 - BCIT - Fall 2018
 
-No specific prep for this week - we are going to work through Chapters
-14 (Accessing Linux File Systems) and 
-15 (Using Virtualized Systems).
+Logs matter. That's how Linux can tell us "what hurts", if we know how
+to filter & interpret them.
 
-These are the last two sections in Red Hat System Administration I.
+The basics are simple:
+- `systemd-journald` logs messages to a binary journal file
+- `rsyslog` extracts & groups messages in appropriate text files inside `/var/log/`
+- `journalctl` can filter & report journal data per your directives
 
-##In a nutshell...
+The problem is that there is *so much* data to sift through.
+You could spend your waking day reading these messages, but on a typical
+server they are generated faster than you can keep up with :(
 
-These last two sections aren't hard, and you should have no problems in class.
+Read Chapter 10 - Analyzing and Storing Logs, in your student guide, for
+some background. 
 
-The big deal with Chapter 12 is understanding the **mount/umount**, **ln** and **find/locate** commands:
-
-The big deal with Chapter 13 is understanding **KVM**, but that won't work in our environment.
-We're going to dive into Pixel instead.
-
-##How about that quiz?
-
-I hope to have a quiz ready for you for tomorrow, based on sections 12 & 13 (last week's topics).
+Here are the suggested logs you should pay attention to:  
+https://www.eurovps.com/blog/important-linux-log-files-you-must-be-monitoring

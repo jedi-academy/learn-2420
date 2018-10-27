@@ -49,11 +49,8 @@ Course organizer for Comp4711
     </week>
     <week num="9">
         <topic>Analyzing Logs</topic>
-        <!--
-        <lesson name="prep06" icon="dothis">Linux Log Files</lesson>
-        <lab name="lab06">Ch 10 - Working with logs</lab>
-        <lesson name="week09" icon="read">Week 9 survey results</lesson>
-        -->
+        <lesson name="prep09" icon="dothis">Linux Log Files</lesson>
+        <lab name="lab06">Working with logs</lab>
     </week>
     <week num="10">
         <topic>Assignment 2</topic>
