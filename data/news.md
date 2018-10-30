@@ -1,3 +1,7 @@
+**Week 10 - Nov 6/7**  
+Assignment #2 is posted, for those who want to start on it
+before next week's lab period :)
+
 **Week 9 - Oct 30/31**  
 Prep reading & this week's lab posted in the organizer tab below.
 

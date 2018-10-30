@@ -54,8 +54,8 @@ Course organizer for Comp4711
     </week>
     <week num="10">
         <topic>Assignment 2</topic>
-        <!--
         <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
+        <!--
         <lesson name="pigui" icon="read">How about a GUI?</lesson>
         -->
     </week>
