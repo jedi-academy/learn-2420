@@ -1,3 +1,12 @@
+**Week 11 - Nov 12/13**
+
+This week's seminar is posted. We're going to dive into network
+management from the command line.
+
+Next week's material, and even the final assignment for the week following,
+have been posted too, to give you some flexibility with your time
+management as the term starts to wind up (or down, depending on your perspective).
+
 **Week 10 - Nov 6/7**  
 Assignment #2 is posted, for those who want to start on it
 before next week's lab period :)

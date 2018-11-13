@@ -1,14 +1,17 @@
-#Seminar #7 - Exchanges & Packages
-ACIT3620 - BCIT - Fall 2017
+#Seminar #9 - File systems & virtualization
+ACIT2420 - BCIT - Winter 2018
+
+DO NOT DO THIS LAB!
 
 ##Overview
 
-We're going to again stick with more of a "by the book" approach for this seminar.
-You're welcome.
+We have a shorter term than normal this fall, with holidays and start/end dates.
+This document is the essence of what we would do for a "normal" lab 9.
 
-We want to work through Chapters 14 & 15, with notes below.
+This is for your benefit. Nothing needs to be handed in, and this material will
+not be on the final exam.
 
-##14 Accessing Linux File Systems <<lab part 1>>
+##14 Accessing Linux File Systems 
 
 Section 14.3 deals with mounting file systems.
 I expect this to be a bit awkward because we are running inside VirtualBox,
@@ -27,21 +30,19 @@ needs to be replaced by an appropriate symbolic link when deployed.
 Locating files (section 14.7) is another necessary skill for your toolbox.
 What is the difference between `find` and `locate`?
 
-The review lab (section 14.9) is the one to work through, saving the terminal
-output for it only, for submission to the D2L dropbox for this lab.
+The review lab (section 14.9) is the one to work through, if you want some practice.
 
 ##15 Using Virtualized Systems <<lab part 2>>
 
 Red Hat has some great virtualization tools, like their Kernel-based Virtual Machine 
 ([KVM](https://www.redhat.com/en/resources/kvm-%E2%80%93-kernel-based-virtual-machine)).
 They are also major supporters of the [OpenStack](https://en.wikipedia.org/wiki/OpenStack) initiative.
-FYI - the May 2018 [OpenStack Summit](https://www.openstack.org/summit/vancouver-2018/) will be here in Vancouver :)
 
 You can read about these, but cannot play with them, in our current environment.
 KVM can be selected at installation time, if you are installing RHEL (not CentOS),
 and if you have an installation number. Neither applies to us.
 
-Do read section 15, to familiarize yourself with Red Hat's perspective on virtualization.
+I do suggest that youread section 15, to familiarize yourself with Red Hat's perspective on virtualization.
 You will find many similarities with our VMs running in VirtualBox.
 
 Not to worry - I have a virtualization exercise for you!
@@ -52,8 +53,7 @@ Not to worry - I have a virtualization exercise for you!
 
 Yes, this will be slower than molasses - Pixel in a box inside CentOS in a box on top of your normal O/S :-/
 
-Arrange the windows on your desktop to clearly show Pixel running on its box in a box in a box,
-and submit a screenshot of this, for part 2 of the lab.
+
 
 ### What if I run out of room?
 

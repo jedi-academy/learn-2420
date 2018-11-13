@@ -1,5 +1,5 @@
-#Seminar #11 Security
-ACIT3620 - BCIT - Winter 2018
+#Seminar #8 Security
+ACIT2420 - BCIT - Fall 2018
 
 ##Security Matters
 

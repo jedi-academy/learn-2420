@@ -1,12 +1,15 @@
-#Assignment 3 - Third Pi
-ACIT3620 - BCIT - Winter 2018
+#Assignment 3 - Third Pi  D R A F T
+ACIT2420 - BCIT - Fall 2018
+
+CAUTION: This is only a draft, and needs to be coordinated
+with ACIT2515!!!
 
 ##Overview
 
 You are going to harden your Pi and test its defenses.
 
 Your Pi with CentOS is a great starting point ... you started out
-with a minimal installation, and then corrupted it with additional
+with a minimal installation, and then might have corrupted it with additional
 services and packages to do your Pi activity for the last
 assignment.
 
@@ -16,23 +19,16 @@ Use the same team as for assignments 1 & 2, unless otherwise arranged.
 
 ##Background
 
-Your Pi needs to be running a web server (on port 80), with a "Hello world"
-default page.
+Your Pi has a service running on port 5000, per the last assignment.
+You also have secure SSH setup, with no remote root access
+and with keypairs needed to login, right?
 
-You will need a guest/visitor user account.
+You will need a guest/visitor user account, and they are to have SSH access.
 
-You also need SSH running, for your guests.
 
-##Job 1 - Assessment
+###Job 1 - Assessment - NOT
 
-Do not attempt any hardening before doing this.
-
-Install & run the OpenSCAP tools, and see what it thinks of your configuration.
-
-Include the report summary, and an excerpt from the report details if
-it is extensive.
-
-Suggestion: the OpenSCAP security guide would be an interesting read.
+You did this last week.
 
 ##Job 2 - Hardening
 
@@ -67,7 +63,7 @@ They shall provide its IP address, and the user name & password
 they setup for guests.
 
 Your attack should be completed within 15 minutes, successful or not.
-The CSI-Cyber team is alerted the minute you start, and they will
+The CSI(T)-Cyber team is alerted the minute you start, and they will
 be pounding down your door 15 minutes from then.
 
 Hint: use the "recipes", Luke.
@@ -87,7 +83,7 @@ If appropriate, submit shell script(s) for the above.
 
 Audience: (1) me, (2) you, when you have to do this on the job.
 
-Due: 23:30 Apr 8, 2018
+Due: 19:30 Dec 2, 2018? This needs to be coordinated with ACIT2515
 
 ##Grading
 

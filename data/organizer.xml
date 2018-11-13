@@ -61,28 +61,27 @@ Course organizer for Comp4711
     </week>
     <week num="11">
         <topic>Managing Networking</topic>
-        <!--
         <lab name="lab07">Managing Networking</lab>
-        -->
     </week>
     <week num="12">
-        <topic>Archiving, Software Packages &amp; a Taste of Hardening</topic>
-        <!--
-        <lesson name="prep11" icon="dothis" survey="337916">Prep reading</lesson>
-        <lesson name="week11" icon="read">Security survey results</lesson>
-        <lesson name="security" >Security talking points</lesson>
-        <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
-        -->
+        <topic>Some archiving &amp; software packages but mostly a Taste of Hardening</topic>
+        <lesson name="prep12" icon="dothis" survey="373015">Prep reading</lesson>
+        <lesson name="security" >Security talking points</lesson> 
+        <lab name="lab08">Security assessment</lab>
+        <lab name="lab08-old" icon="read">The other stuff...</lab>
     </week>
-    <week num="14">
+    <week num="13">
         <topic>Review &amp;Assignment 3 completion</topic>
-        <!--
+        <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
+        <!--        
         <lesson name="prep13" icon="dothis">Wrapup &amp; Review</lesson>
         <lesson name="review">Review</lesson>
         <lesson name="review_1">... and the commands to go with it</lesson>
         -->
+        <lab name="lab09" icon="read">FYI ... File systems &amp; virtualization ... I know
+            you're dying to find out more!</lab>
     </week>
-    <week num="15">
+    <week num="14">
         <topic>Final Exam</topic>
     </week>
 </organizer>
