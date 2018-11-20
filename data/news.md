@@ -1,3 +1,9 @@
+**Week 12 - Nov 19/20**  
+The last part of the midterm solution has been posted on D2L,
+together with an updated readme for it.
+
+This week's seminar was there since last week :-/
+
 **Week 11 - Nov 12/13**
 
 This week's seminar is posted. We're going to dive into network
