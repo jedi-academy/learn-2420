@@ -1,3 +1,12 @@
+**Week 13/14 - Dec 4/5**  
+
+Yes, I am week-numbering-challenged.
+
+This week's class is a wrapup/review, and you should have some time for any last
+minute work needed for assignment 3.
+
+
+
 **Week 12 - Nov 19/20**  
 The last part of the midterm solution has been posted on D2L,
 together with an updated readme for it.

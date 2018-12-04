@@ -1,8 +1,6 @@
-#Assignment 3 - Third Pi  D R A F T
+#Assignment 3 - Third Pi
 ACIT2420 - BCIT - Fall 2018
 
-CAUTION: This is only a draft, and needs to be coordinated
-with ACIT2515!!!
 
 ##Overview
 

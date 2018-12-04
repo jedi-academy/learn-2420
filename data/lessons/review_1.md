@@ -1,9 +1,11 @@
 #Seminar #13 Review  
-ACIT3620 - BCIT - Winter 2018
+ACIT2420 - BCIT - Fall 2018
 
-I have suggested earlier that the final exam will be
-multiple choice, and based on the RHCSA, or at least
-the parts of that that we have covered.
+The number of asterisks following a command are a
+measure of its importance (and hence likelihood
+to be on the exam).
+
+How many two-star commands are there?
 
 ##Commands for the RHCSA  Topics
 
@@ -11,85 +13,85 @@ the parts of that that we have covered.
 
     cat
     cd
-    cd
-    chmod
-    chown
-    cp
+    chmod **
+    chown **
+    cp *
     exit
-    grep
-    gzip
+    grep *
+    gzip *
     less
-    ls
+    ls **
     man
-    mkdir
-    mv
+    mkdir *
+    mv *
     nano
-    pwd
-    rm
-    ssh
-    su
-    sudo
+    pwd **
+    rm *
+    ssh **
+    su **
+    sudo **
     tail
     touch
-    vi
-    xz
+    vi *
+
 
 ###Operate running systems (Ch 7-10)
 
     hostnamectl
-    ifcong
-    ip addr
+    ifcong **
+    ip addr **
     jobs
-    journalctl
-    kill
+    journalctl **
+    kill **
     netstat
     nice
-    nmcli
+    nmcli *
     nmtui
     ping
     ps
-    pwd
+    pwd **
     reboot
     scp
     shutdown
     ss
-    systemctl
-    systemd-syslog
+    systemctl **
+    systemd-syslog **
     top
     tracert
 
 ###Create and configure file systems (Ch 7)
 
-    chgrp
-    chmod
-    chown
+    chgrp **
+    chmod **
+    chown **
     diskpart
-    fdsik
+    fdisk *
     ls
     mkdir
-    parted
+    parted *
     rmdir
-    umask
+    umask *
 
 
 ###Deploy, configure, and maintain systems (Ch 8, 11, 13)
 
     chronyd
-    hostnamectl
-    rpm
+    hostnamectl *
+    rpm **
     settimectl
-    yum
+    yum **
 
 
 ###Manage users and groups (Ch 5-6)
 
-    groupadd
-    passwd
-    useradd
+    groupadd **
+    passwd **
+    useradd *
     userdel
 
 
 ###Manage security (Ch 9, 11)
 
-    ssh-copyid
-    ssh-keygen
+    ssh-copyid **
+    ssh-keygen **
+    ssh **

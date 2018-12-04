@@ -73,13 +73,10 @@ Course organizer for Comp4711
     <week num="13">
         <topic>Review &amp;Assignment 3 completion</topic>
         <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
-        <!--        
-        <lesson name="prep13" icon="dothis">Wrapup &amp; Review</lesson>
         <lesson name="review">Review</lesson>
         <lesson name="review_1">... and the commands to go with it</lesson>
-        -->
-        <lab name="lab09" icon="read">FYI ... File systems &amp; virtualization ... I know
-            you're dying to find out more!</lab>
+        <!--        <lab name="lab09" icon="read">FYI ... File systems &amp; virtualization ... I know
+        you're dying to find out more!</lab> -->
     </week>
     <week num="14">
         <topic>Final Exam</topic>
