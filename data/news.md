@@ -4,6 +4,7 @@ I will post here a summary of marking progress.
 - Final exam graded ... average 67%, lowest 57% (no failures), highest 87% (congrats Carson)
 - assignment 2 graded & feedback published
 - lab 7 graded & published
+- lab 8 graded & published
 
 **Week 13/14 - Dec 4/5**  
 
