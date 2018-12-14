@@ -1,4 +1,4 @@
-**Course Grading - Dec 12**  
+**Course Grading - Dec 13**  
 I will post here a summary of marking progress.
 
 - Final exam graded ... average 67%, lowest 57% (no failures), highest 87% (congrats Carson)
