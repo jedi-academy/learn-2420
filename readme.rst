@@ -1,10 +1,10 @@
 ###########################
-ACIT3620 Course Hub Website
+ACIT2420 Course Hub Website
 ###########################
 
 This is the course hub for 
-`ACIT3620 Systems Administration Using Linux 
-<http://www.bcit.ca/study/outlines/20173034734>`_. 
+`ACIT2420 Linux Systems Administration
+<http://www.bcit.ca/study/outlines/20191086051>`_. 
 
 *****
 Setup
@@ -13,29 +13,6 @@ Setup
 Extract & serve from the **public** folder.
 
 You might need to do a **composer update** first.
-
-*****************
-Programming Style
-*****************
-
-Some of the programming design decisions reflected:
-
--   The architecture adheres more to the "model-view-adapter" convention,
-    where the view is unaware of the source of data and the model is unaware of
-    how any data might be presented. The controllers are go-betweens.
--   A "theme template" presents the organizing pages for a course, in a
-    visual style consistent with the main CodeIgniter site.
--   A "show template" presents a learning activity as a slideshow suited
-    to presentation or print, using the S5 framework from Eric Meyer.
--   A base controller takes care of assembling finished pages, using the 
-    master template.
--   Using the template parser eliminates PHP code from the views, where possible.
--   View fragments are used to style single "records" on their own, improving cohesion.
--   An ".htaccess" file is incorporated, to configure Apache to remote
-    index.php from any URLs.
--   The site is XML-driven, abstracting as much as possible so that the
-    webapp can be used for other courses. XML was chosen over an RDB
-    because of the rich data structures it can support.
 
 ***************
 Project Folders
@@ -52,16 +29,6 @@ License
 *******
 
 MIT license.
-
-*********
-Resources
-*********
-
--  `Informational website <http://codeigniter.com/>`_
--  `Source code repo <https://github.com/bcit-ci/CodeIgniter/>`_
--  `User Guide <https://codeigniter.com/userguide3/>`_
--  `Community Forums <https://forum.codeigniter.com/>`_
--  `Community Chat <https://codeigniterchat.slack.com/>`_
 
 ***************
 Acknowledgement

@@ -4,8 +4,8 @@
 School: School of Computing and Academic Studies  
 Program: Computer Information Technology Diploma  
 Course Credits: 4  
-Start Date: September 04, 2018  
-End Date: December 14, 2018  
+Start Date: January 07, 2019  
+End Date: April 19, 2019  
 Total Hours: 60  
 Total Weeks: 15  
 Hours/Weeks: 4  
@@ -18,7 +18,7 @@ The objective of this course is to teach students basic Network Operating System
 Linux. At the end of the course the students should be able to install and configure a Linux-based network.
 Configuration tasks include installing the software, adding hardware, networking the servers, managing users,
 monitoring performance, scripting and troubleshooting. Students are also expected to configure common server
-services such as DNS, NHCP, Apache and IP Tables.
+services such as DNS, DHCP, Apache and IP Tables.
 
 
 ## Course goals
@@ -51,8 +51,8 @@ Upon successful completion of this course, the student will be able to:
 Labs - 30% ... 9 hands-on labs  
 Quizzes & participation - 10% ... Lab attendance, some quizzes  
 Assignments - 25% ... 3 team assignments  
-Midterm exam - 10% ... hands-on midterm exam  
-Final exam - 25% ... Comprehensive
+Midterm exam - 15% ... hands-on midterm exam  
+Final exam - 20% ... Comprehensive
 
 ## Attendance requirements
 Students missing more than two labs will receive an Unsatisfactory grade in the course, and fail.

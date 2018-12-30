@@ -1,8 +1,11 @@
 ## Course Instructors
 **Jim Parry**  
-<jim_parry@bcit.ca>   
+<jim_parry@bcit.ca>; DTC-617; (604)432-8464
 Online collaboration; announced first class.  
-In office meeting can be requested Tue 11:30-13:20, between classes
+In office meeting can be requested Tue 12:30-13:20, between classes
+
+Chris Wiebe
+<chris_wiebe@bcit.ca>; DTC-617
 
 ## Desire2Learn LMS
 [Calendar](https://learn.bcit.ca/d2l/le/calendar/{ou})  
@@ -20,5 +23,5 @@ In office meeting can be requested Tue 11:30-13:20, between classes
 
 ##Course Related
 [Course outline]({outline})  
-[Slack team](https://acit2420-fall2018.slack.com) - for notifications & FAQ  
+[Slack team](https://acit2420-winter2019.slack.com) - for notifications & FAQ  
 [Course repo](https://github.com/jedi-academy/learn-2420) - open-sourced, for those who want to look "under the hood"    

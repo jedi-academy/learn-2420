@@ -11,13 +11,13 @@ Course metadata for Comp4711
     <author>James L. Parry</author>
     <email>jim_parry@bcit.ca</email>
     <outline>http://www.bcit.ca/study/outlines/20183045073</outline>
-    <session>Winter 2018</session>
+    <session>Winter 2019</session>
     <school>B.C. Institute of Technology</school>
     <site>https://www.bcit.ca/study/programs/5520diplt#PGM_CONTENT</site>
     <license>MIT License</license>
 	
 	<!-- D2L specifric fields -->
-	<ou>484286</ou>
+	<ou>524988</ou>
     
     <!-- An introduction, shown at the top of the course homepage -->
     <intro>

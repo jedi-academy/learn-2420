@@ -1,4 +1,4 @@
-# Resources for ACIT3620
+# Resources for ACIT2420
 
 ## Red Hat Linux
 [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) with commercial support  

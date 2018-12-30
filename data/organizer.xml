@@ -1,82 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Course organizer for Comp4711
+Course organizer for ACIT2420
 -->
 <organizer>
     <week num="1">
         <topic>Introduction &amp; Command Line</topic>
+<!--        
         <lesson name="intro01">Course introduction</lesson>
         <tutorial name="setup01">Installation &amp; setup</tutorial>
+-->        
     </week>
     <week num="2">
         <topic>Managing Files &amp; Getting Help</topic>         
+<!--        
         <lesson name="prep02" icon="dothis">Linux Intro</lesson>
         <lab name="lab00">Ch1 - Command line</lab>
         <lab name="lab01">Ch2 - Managing files</lab>
         <lesson name="bazaar" icon="read">The Cathedral &amp; the Bazaar</lesson>
+-->        
     </week>
     <week num="3">
         <topic>Bash shell scripting</topic>         
+<!--        
         <lesson name="prep03" icon="dothis">Ch4 - Editing Text Files</lesson>
         <lab name="lab02">Shell Scripting</lab>
         <lab name="faq02" icon="read">Lab 2 FAQ</lab>        
+-->        
     </week>
     <week num="4">
         <topic>Managing Users &amp; Groups</topic>         
+<!--        
         <lesson name="prep04" icon="dothis">Vagrant</lesson>
         <lab name="lab03">Managing users and groups</lab>
+-->        
     </week>
     <week num="5">
-        <topic>Assignment 1</topic>
+        <topic>Assignment 1 Completion</topic>
+<!--        
         <lesson name="prep05" icon="dothis" survey="366760">Pi Background</lesson>
         <assignment icon="read" name="assignment1">Vanilla Pi</assignment>
         <lesson name="week05" icon="read">Pi Thoughts (week 5) survey results</lesson>
+-->        
     </week>
     <week num="6">
         <topic>Managing Files and Processes</topic>
+<!--        
         <lesson name="prep06" icon="dothis">Grokking Permissions &amp; Processes</lesson>
         <lab name="lab04a">File Permissions</lab>
         <lab name="lab04b">Monitor and Manage Processes</lab>
+-->        
     </week>
     <week num="7">
         <topic>Midterm</topic>
+<!--        
         <lesson name="prep07" icon="dothis">Midterm Prep</lesson>
+-->        
     </week>
     <week num="8">
         <topic>Managing Services and Daemons</topic>
+<!--        
         <lesson name="prep08" icon="dothis">Just what *is* a service?</lesson>
         <lab name="lab05">Ch 8/9 - Manage Services and Daemons, specifically SSH</lab>
+-->        
     </week>
     <week num="9">
         <topic>Analyzing Logs</topic>
+<!--        
         <lesson name="prep09" icon="dothis">Linux Log Files</lesson>
         <lab name="lab06">Working with logs</lab> 
+-->        
     </week>
     <week num="10">
-        <topic>Assignment 2</topic>
+        <topic>Assignment 2 Completion</topic>
+<!--        
         <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
-        <!--
-        <lesson name="pigui" icon="read">How about a GUI?</lesson>
-        -->
+-->        
     </week>
     <week num="11">
         <topic>Managing Networking</topic>
+<!--        
         <lab name="lab07">Managing Networking</lab>
+-->        
     </week>
     <week num="12">
-        <topic>Some archiving &amp; software packages but mostly a Taste of Hardening</topic>
+        <topic>Hardening Linux</topic>
+<!--        
         <lesson name="prep12" icon="dothis" survey="373015">Prep reading</lesson>
         <lesson name="security" >Security talking points</lesson> 
         <lab name="lab08">Security assessment</lab>
         <lab name="lab08-old" icon="read">The other stuff...</lab>
+-->        
     </week>
     <week num="13">
         <topic>Review &amp;Assignment 3 completion</topic>
+<!--        
         <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
         <lesson name="review">Review</lesson>
         <lesson name="review_1">... and the commands to go with it</lesson>
-        <!--        <lab name="lab09" icon="read">FYI ... File systems &amp; virtualization ... I know
+        <lab name="lab09" icon="read">FYI ... File systems &amp; virtualization ... I know
         you're dying to find out more!</lab> -->
+-->        
     </week>
     <week num="14">
         <topic>Final Exam</topic>
