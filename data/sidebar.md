@@ -4,7 +4,7 @@
 Online collaboration; announced first class.  
 In office meeting can be requested Tue 12:30-13:20, between classes
 
-Chris Wiebe
+**Chris Wiebe**  
 <chris_wiebe@bcit.ca>; DTC-617
 
 ## Desire2Learn LMS
