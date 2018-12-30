@@ -20,13 +20,13 @@ System Administration III [RH254](https://www.redhat.com/en/services/training/rh
 Certified System Engineer [RHCSE](https://www.redhat.com/en/services/training/ex300-red-hat-certified-engineer-rhce-exam)  
 
 ## Other Linux Distributions
-[Arch Linux](https://www.archlinux.org/) 2017.09.01  
-[Debian](https://www.debian.org/) 9.1  
-[Fedora](https://getfedora.org/) 26 (RedHat)  
-[Linux Mint](https://www.linuxmint.com/) 18.2  
-[openSUSE](https://www.opensuse.org/) 42.3  
-[Oracle Linux](http://www.oracle.com/linux) 7 (RHEL compatible)  
-[Ubuntu](http://www.ubuntu.com/) 17.04  
+[Arch Linux](https://www.archlinux.org/) 2018.12.01  
+[Debian](https://www.debian.org/) 9.6.0  
+[Fedora](https://getfedora.org/) 29 (RedHat)  
+[Linux Mint](https://www.linuxmint.com/) 19.1  
+[openSUSE](https://www.opensuse.org/) 15.0  
+[Oracle Linux](http://www.oracle.com/linux) 7.6 (RHEL compatible)  
+[Ubuntu](http://www.ubuntu.com/) 18.10  
 
 ## Cheat Sheets
 [Linux Commands Cheat Sheet](https://developers.redhat.com/download-manager/file/linux_cheatsheet_bw_pdf)  
