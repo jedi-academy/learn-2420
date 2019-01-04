@@ -1,5 +1,5 @@
 #Week 1 - Environment Setup  
-ACIT2420 - BCIT - Fall 2018
+ACIT2420 - BCIT - Winter 2019
 
 Before we can get down to work on the seminar/lab material, you need an environment to work in.
 
@@ -7,8 +7,9 @@ Before we can get down to work on the seminar/lab material, you need an environm
 
 There are several downloads needed:
 
-- [CentOS LiveGNOME](http://mirror.its.sfu.ca/mirror/CentOS/7.5.1804/isos/x86_64/CentOS-7-x86_64-LiveGNOME-1804.iso) <1.3GB> for your "client"
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) <80MB> to host these
+- [CentOS LiveGNOME](http://mirror.its.sfu.ca/mirror/CentOS/7.6.1810/isos/x86_64/CentOS-7-x86_64-LiveGNOME-1810.iso) 
+    <1.4GB> for your "client".
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) <213MB> to host these
 
 You may wish to start the downloads at your convenience. 
 Note: you just need to download these - they do not have to be burned onto any optical or removable media.
@@ -20,12 +21,15 @@ If you are willing to proceed...
 
 Follow the RH Academy student registration link from D2L, and signup for a Red Hat
 account. You will need to provide personal information to Gilmore.ca,
-Red Hat's fulfilment partner in Canada.
+Red Hat's fulfillment partner in Canada.
 
-I will get an email notification, for verification & approval.  
-I need your signed consent form too.
+We will get an email notification, for verification & approval.  
+We need your "signed" consent form too, in the D2L dropbox for that.
+It does not need to be literally signed, not even digitally signed
+(though you could). We have approval that it can simply be a D2L submission,
+as those are provably from you.
 
-When I approve the registration, you will receive an email confirmation,
+When we approve the registration, you will receive an email confirmation,
 and you can then login to the RH Academy portal.
 
 Caution: you are likely to end up with two accounts (confusing!) - one for the Red Hat / Gilmore
@@ -86,8 +90,17 @@ This will then match the instructions in the learning guide.**
 
 An added bonus: it will be hard to forget your passwords :D
 
+Remember to "eject" the install disk from your VM, or else
+you will just reboot into the installer!!!
+
 ##You should be good to go!
 
 Once you have your "client" VM fully setup, feel free to play with CentOS.
 There will be readings / online videos assigned for you to absorb
 before next week's class, when we dive into Linux in earnest!
+
+**Note:** nothing needs to be handed in for this.
+If you don't get your VM working, you will be hooped in this course,
+and ACIT2620, and pretty much most of level 3 and 4.
+**This is about survival, not about marks!!**
+

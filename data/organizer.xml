@@ -5,10 +5,8 @@ Course organizer for ACIT2420
 <organizer>
     <week num="1">
         <topic>Introduction &amp; Command Line</topic>
-<!--        
-        <lesson name="intro01">Course introduction</lesson>
+        <lesson name="intro01">ACIT2420 Course introduction</lesson>
         <tutorial name="setup01">Installation &amp; setup</tutorial>
--->        
     </week>
     <week num="2">
         <topic>Managing Files &amp; Getting Help</topic>         

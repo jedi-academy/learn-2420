@@ -1,5 +1,5 @@
 #Seminar #2 Online Prep
-ACIT2420 - BCIT - Winter 2019
+ACIT2420 - BCIT - Fall 2018
 
 The student guide has an introduction to Linux, but it can be a bit dry. 
 We will be going through the first two
@@ -9,5 +9,7 @@ from Grant McWilliams,
 before our class this week.
 
 You can access this through the BCIT library online - you are entitled to a lynda.com account without having to pay for it :)
-You may have to do a search for it once you get through to lynda.com, as you will
-get there through our library portal.
+
+I am not sure if the link above will work properly ... this is the first time
+I am using the service. Bear with us :-/
+

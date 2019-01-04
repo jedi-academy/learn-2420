@@ -2,10 +2,11 @@
 <!--
 Lesson 00 - In-class Only Introduction
 -->
-<lesson status="v1.0">
+<lesson status="v1.1">
     
     <!-- The meat of the presentation -->
     <slide title="Your Instructors" layout="normal">
+        <div class="left">
         <h2>Jim Parry</h2>
         <ul>
             <li>Day job: BCIT instructor</li>
@@ -13,6 +14,16 @@ Lesson 00 - In-class Only Introduction
             <li>Contact: DTC-617, email instead</li>
             <li>Email: jim_parry@bcit.ca</li>
         </ul>
+        </div>
+        <div class="right">
+        <h2>Chris Wiebe</h2>
+        <ul>
+            <li>Day job: BCIT instructor</li>
+            <li>Linux (CentOS) user for many years</li>
+            <li>Contact: DTC-617, email instead</li>
+            <li>Email: chris_wiebe@bcit.ca</li>
+        </ul>
+        </div>
     </slide>
 
     <slide title="Course Outcomes" layout="normal">
@@ -57,13 +68,13 @@ Lesson 00 - In-class Only Introduction
             but you are already familiar with them :)</p>
         <ul>
             <li>Flipped Learning - weekly readings/watchings will be assigned,
-                with a D2L survey to complete 
-                by the evening before that week's lecturette and seminar.
+                some with a D2L survey to complete 
+                by the evening before that week's seminar.
             </li>
             <li>Flipped LMS - our course hub has deep links into D2L,
                 rather than the other way around.</li>
             <li>"Authentic" assessment - hands-on labs, with proof of successful
-                completion; hands-on midterm and hands-on final!</li>
+                completion; hands-on midterm and maybe hands-on final!</li>
         </ul>
     </slide>
 
@@ -76,10 +87,10 @@ Lesson 00 - In-class Only Introduction
             <li>
                 <a href="{outline}" target="_blank">
                     Course outline</a> on BCIT site</li>
-            <li>Organizer, and *my* lessons, tutorials, and lab/assignment writeups all on our course hub.</li>
+            <li>Organizer, and *our* lessons, tutorials, and lab/assignment writeups all on our course hub.</li>
             <li>Any Red Hat proprietary material will be on D2L.</li>
-            <li>Labs/walkthroughs done individually, although some will be in pairs.</li>
-            <li>Assignments done in pairs, and they will tie-in with ACIT2515.</li>
+            <li>Labs/walkthroughs done individually, although some may be in pairs or teams.</li>
+            <li>Assignments done in pairs, and they may tie-in with ACIT2515.</li>
         </ul>
     </slide>
 
@@ -87,9 +98,9 @@ Lesson 00 - In-class Only Introduction
         <ul>
             <li>10%: lab participation, some quizzes</li>
             <li>30%: 9 hands-on labs</li>
-            <li>30%: 3 team assignments</li>
-            <li>10%: midterm</li>
-            <li>25%: final exam, comprehensive</li>
+            <li>25%: 3 team assignments</li>
+            <li>15%: midterm</li>
+            <li>20%: final exam, comprehensive</li>
         </ul>
         <p>Attendance expected, missing more than 2 labs =&gt; U</p>
     </slide>

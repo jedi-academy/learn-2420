@@ -1,5 +1,5 @@
 #Seminar #2 - Managing Files from the Command Line
-ACIT2420 - BCIT - Fall 2018
+ACIT2420 - BCIT - Winter 2019
 
 ##Overview
 

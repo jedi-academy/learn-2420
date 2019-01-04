@@ -26,6 +26,7 @@ Certified System Engineer [RHCSE](https://www.redhat.com/en/services/training/ex
 [Linux Mint](https://www.linuxmint.com/) 19.1  
 [openSUSE](https://www.opensuse.org/) 15.0  
 [Oracle Linux](http://www.oracle.com/linux) 7.6 (RHEL compatible)  
+[Raspian OS](https://www.raspbian.org/) Nov2018  
 [Ubuntu](http://www.ubuntu.com/) 18.10  
 
 ## Cheat Sheets

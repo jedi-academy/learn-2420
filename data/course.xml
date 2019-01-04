@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE course SYSTEM "../xml/course.dtd">
-<!--
-Course metadata for Comp4711
--->
 <course>
     <!-- Course metadata -->
     <code>acit2420</code>
-    <title>System Administration Using Linux</title>
+    <title>Linux System Administration</title>
     <subtitle>ACIT2420</subtitle>
     <author>James L. Parry</author>
     <email>jim_parry@bcit.ca</email>
-    <outline>http://www.bcit.ca/study/outlines/201910524988</outline>
+    <outline>http://www.bcit.ca/study/outlines/20191086051</outline>
     <session>Winter 2019</session>
     <school>B.C. Institute of Technology</school>
     <site>https://www.bcit.ca/study/programs/5520diplt#PGM_CONTENT</site>
     <license>MIT License</license>
 	
-	<!-- D2L specifric fields -->
+	<!-- D2L specific fields -->
 	<ou>524988</ou>
+        <crn>86051</crn>
     
     <!-- An introduction, shown at the top of the course homepage -->
     <intro>

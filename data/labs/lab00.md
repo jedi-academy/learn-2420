@@ -1,5 +1,5 @@
 #Lab #0 - Accessing the Command Line
-ACIT2420 - BCIT - Fall 2018
+ACIT2420 - BCIT - Winter2019
 
 ##Overview
 
