@@ -9,13 +9,11 @@ Course organizer for ACIT2420
         <tutorial name="setup01">Installation &amp; setup</tutorial>
     </week>
     <week num="2">
-        <topic>Managing Files &amp; Getting Help</topic>         
-<!--        
+        <topic>The Command Line &amp; Managing Files</topic>         
         <lesson name="prep02" icon="dothis">Linux Intro</lesson>
         <lab name="lab00">Ch1 - Command line</lab>
         <lab name="lab01">Ch2 - Managing files</lab>
         <lesson name="bazaar" icon="read">The Cathedral &amp; the Bazaar</lesson>
--->        
     </week>
     <week num="3">
         <topic>Bash shell scripting</topic>         

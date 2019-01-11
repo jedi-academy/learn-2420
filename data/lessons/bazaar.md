@@ -2,15 +2,12 @@
 
 ##The Cathedral and the Bazaar
 
-Something that was clear last week was, that you collectively do not
-have a broad understanding of Linux, or of the open source culture
-it is part of. 
 Many people use open source software because it is "free", but many
 others use it because they agree with and/or support the culture surrounding it.
 
 This "open source culture" was best explained in an essay, "The Cathedral and the Bazaar",
 written by Eric Raymond in 1997-1999. It is essential reading for those
-who hope to see beyond the "free" label of OSS, or those who should.
+who hope to see beyond the "free" label of FOSS, or those who should.
 As an IT professional, especially for any work in devops or system 
 administration, you cannot avoid open source tools. That makes you part of the group who
 should see "beyond free".

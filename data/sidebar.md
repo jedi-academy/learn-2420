@@ -1,11 +1,13 @@
 ## Course Instructors
 **Jim Parry**  
 <jim_parry@bcit.ca>; DTC-617; (604)432-8464
-Online collaboration; announced first class.  
-In office meeting can be requested Tue 12:30-13:20, between classes
 
 **Chris Wiebe**  
 <chris_wiebe@bcit.ca>; DTC-617
+
+**Meeting/consultation**: D2L virtual classroom or zoom video conference,
+at a mutually agreeable time.
+Don't forget the slack channel!
 
 ## Desire2Learn LMS
 [Calendar](https://learn.bcit.ca/d2l/le/calendar/{ou})  

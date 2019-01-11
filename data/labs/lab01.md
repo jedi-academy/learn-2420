@@ -1,4 +1,4 @@
-#Seminar #2 - Managing Files from the Command Line
+#Seminar #2 - Managing Files from the Command Line (a.k.a. Lab01)
 ACIT2420 - BCIT - Winter 2019
 
 ##Overview
@@ -39,7 +39,7 @@ The "lab01" dropbox has been setup for you to use for this lab.
 
 See the end of this writeup for the file you need to submit.
 
-Due: Sunday, Sept 16, 17:30 PST
+Due: Sunday, Jan 20, 17:30 PST
 
 ##Lab Marking Guideline
 
@@ -48,7 +48,7 @@ and deducting for minor (1 mark) or major (2 marks) booboos.
 
 #Finally, The Lab
 
-I will tell a few stories at the beginning of each section of
+We will tell a few stories at the beginning of each section of
 the lab :)
 
 ##File systems (20 mins)
@@ -73,7 +73,7 @@ the lab :)
 
 ##Lab Exercise (20 mins)
 
-Complete the lab exercise, 2.9 in your student guide.
+Complete the lab exercise, "2.9" *Managing Files with Shell Expansion* in your student guide.
 
 Use the "tree" command to build your submission:
 

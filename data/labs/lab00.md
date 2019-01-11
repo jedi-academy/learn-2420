@@ -1,15 +1,13 @@
-#Lab #0 - Accessing the Command Line
+#Seminar #2A - Accessing the Command Line
 ACIT2420 - BCIT - Winter2019
 
 ##Overview
 
 Goal 
-- To log into a Linux system and run simple commands using
-    the shell.
+- To log into a Linux system and run simple commands using the shell.
 
 Objectives 
-- Use Bash shell syntax to enter commands at a Linux
-            console.
+- Use Bash shell syntax to enter commands at a Linux console.
 - Launch applications in a GNOME desktop environment.
 - Use Bash features to run commands from a shell prompt
 using fewer keystrokes.
@@ -44,9 +42,13 @@ There is merit to working in parallel with a partner from your set, for support,
 but you both want to be able to do this.
 
 There is nothing to mark for this part of today's seminar. It is exploratory.
-If you don't "get it", then the "real" lab will be painful.
+If you don't "get it", then the "real" lab will be painful.  
+Moral of this sad paragraph: ask for help if needed!
 
 #Let's Do This :)
+
+Your instructor will say a few words about each section, and then
+help you with questions as you practice.
 
 ##Setup
 
@@ -79,7 +81,7 @@ If you do not, then add a "bridged adapter" in the network settings for your VM 
 
 ##Lab Exercise (pulling it together)
 
-Complete the lab exercise, 1.7 in your student guide.
+Complete the lab exercise, "1.7" *Accessing the Command Line*, in your student guide.
 
 1. Log into your CentOS graphical login screen as "student".
 2. Open a terminal window that will provide a bash prompt.
@@ -97,5 +99,5 @@ file. Use command line editing to accomplish this with a minimal amount of keyst
 11. Execute the date command without any arguments to display the current date and time.
 12. Use bash history to display just the time.
 13. use the bash shell menu to save the shell history to a text file.
-14. For your benefit, reset the student password to "student", before you exit from your bash shell.
+14. **For your benefit, reset the student password to "student", before you exit from your bash shell.**
 
