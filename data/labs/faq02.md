@@ -1,5 +1,5 @@
 #Lab #2 FAQ - Shell Scripting
-ACIT2420 - BCIT - Fall 2018
+ACIT2420 - BCIT - Winter 2019
 
 This page addresses some of the questions that have come up in or about the lab
 this week.

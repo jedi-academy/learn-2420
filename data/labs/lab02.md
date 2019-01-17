@@ -1,5 +1,5 @@
 #Seminar #3 - Lab #2 - Shell Scripting
-ACIT2420 - BCIT - Fall 2018
+ACIT2420 - BCIT - Winter 2019
 
 ##Overview
 
