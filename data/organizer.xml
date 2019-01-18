@@ -18,10 +18,9 @@ Course organizer for ACIT2420
     <week num="3">
         <topic>Bash shell scripting</topic>         
         <lesson name="prep03" icon="dothis">Ch4 - Editing Text Files</lesson>
-<!--        
-        <lab name="lab02">Shell Scripting</lab>
+        <tutorial name="scripting">Shell scripting seminar</tutorial>
+        <lab name="lab02">Shell scripting lab</lab>
         <lab name="faq02" icon="read">Lab 2 FAQ</lab>        
- -->        
    </week>
     <week num="4">
         <topic>Managing Users &amp; Groups</topic>         

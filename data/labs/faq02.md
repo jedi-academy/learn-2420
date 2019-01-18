@@ -1,8 +1,8 @@
 #Lab #2 FAQ - Shell Scripting
 ACIT2420 - BCIT - Winter 2019
 
-This page addresses some of the questions that have come up in or about the lab
-this week.
+This page addresses some of the questions that have or will come up in or about the lab
+this week :-/
 
 ##Can we copy/paste? the beanstalk story or the index.html?
 
@@ -30,9 +30,6 @@ Here are a couple of ways:
         fi
 
 ##Is there an elegant way to handle options?
-
-I reread the tutorial we used in class, and that topic is actually not
-addressed :(
 
 The normal practice is to iterate over the arguments,
 interpreting the early ones as options, until one isn't
@@ -78,6 +75,8 @@ are now conveniently numbered `$1`, `$2`, etc.
 This isn't the only way to do this, but it does use the conditional
 statements we talked about in class.
 
+A perhaps easier way is to use [getopts](https://wiki.bash-hackers.org/howto/getopts_tutorial) :-/
+
 ##Any helpful examples to share with us?
 
 - [30 Bash Script Examples](https://linuxhint.com/30_bash_script_examples)
@@ -87,24 +86,17 @@ statements we talked about in class.
 
 Here are some examples of expected behaviour:
 
-    # display program usage directions
-    ./tellmeastory.sh
+# Jack & Henrietta have an adventure
+./amuseme -u Henrietta
 
-    # tell the story of Jack and the beanstalk, displayed in firefox
-    ./tellmeastory.sh -x
+# Jack & Henry go up the hill, and Jack breaks his chopsticks; we see this on the internets
+./amuseme -u Henry -x "favorite chopsticks"
 
-    # tell the story of George and the beanstalk, displayed in firefox
-    ./tellmeastory.sh -x -u George
+# Jack & Jim go up the hill; Jack breaks his coffee mug & uses CBD to try to repair it; we see this on the internets
+./amuseme -x -u Jim "coffee mug" CBD
 
-    # tell the story of Jack and the bash ladder, displayed in firefox
-    ./tellmeastory.sh -x "bash ladder"
+# Jack & & Jill have an adventure; Jack breaks his henrietta
+./amuseme Henrietta
 
-    # tell the story of Henry and the basketball player, displayed in firefox
-    ./tellmeastory.sh -x -u Henry "basketball player"
-
-    # tell the story of Henry and the beanstalk, saved without displaying
-    ./tellmeastory.sh -u Henry
-
-    # tell the story of Jack and the "-z" ... why?
-    ./tellmeastory.sh -z -u Henry "basketball player"
-
+# Jack & & Jill have an adventure; Jack breaks his henrietta
+./amuseme -saywhat Henrietta
