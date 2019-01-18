@@ -27,6 +27,13 @@ ACIT2420 - BCIT - Winter 2019
 
 Using the Bash Scripting Tutorial referred to above...
 
+**Note**: the bash scripting tutorial contains small video clips showing the command line
+execution of described commands, almost like GIFs. You may experience difficulty viewing
+these on firefox, and may have to use a different browser. You might also be stymied
+if you are using any sort of ad or script blocker, since you don't want 20-30 trackers
+or ad servers latching on to you. That site did not behave like this in the fall ... it
+looks like they have given in to monetization :(
+
 ## 1-3. Introduction
 
 ## 4. Scripting
