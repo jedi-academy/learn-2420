@@ -1,16 +1,16 @@
-#Lab #2 FAQ - Shell Scripting
+# Lab #2 FAQ - Shell Scripting
 ACIT2420 - BCIT - Winter 2019
 
 This page addresses some of the questions that have or will come up in or about the lab
 this week :-/
 
-##Can we copy/paste? the beanstalk story or the index.html?
+## Can we copy/paste? the beanstalk story or the index.html?
 
 No! Part of the intent is that your shell script do *everything* inside it,
 including retrieving the original story, manipulating it appropriately,
 and saving the result in `index.html` in your `storytime` folder.
 
-##How do we show usage directions if no parameters are given?
+## How do we show usage directions if no parameters are given?
 
 Here are a couple of ways:
 
@@ -29,7 +29,7 @@ Here are a couple of ways:
           exit 1
         fi
 
-##Is there an elegant way to handle options?
+## Is there an elegant way to handle options?
 
 The normal practice is to iterate over the arguments,
 interpreting the early ones as options, until one isn't
@@ -77,26 +77,31 @@ statements we talked about in class.
 
 A perhaps easier way is to use [getopts](https://wiki.bash-hackers.org/howto/getopts_tutorial) :-/
 
-##Any helpful examples to share with us?
+## Any helpful examples to share with us?
 
 - [30 Bash Script Examples](https://linuxhint.com/30_bash_script_examples)
 - You could always check last term's midterm and solution, on D2L :-/
 
-##How do we test our script?
+## How do we test our script?
 
 Here are some examples of expected behaviour:
 
-# Jack & Henrietta have an adventure
-./amuseme -u Henrietta
+### Jack & Henrietta have an adventure
 
-# Jack & Henry go up the hill, and Jack breaks his chopsticks; we see this on the internets
-./amuseme -u Henry -x "favorite chopsticks"
+    ./amuseme -u Henrietta
 
-# Jack & Jim go up the hill; Jack breaks his coffee mug & uses CBD to try to repair it; we see this on the internets
-./amuseme -x -u Jim "coffee mug" CBD
+### Jack & Henry go up the hill, and Jack breaks his favorite chopsticks; we see this on the internets
 
-# Jack & & Jill have an adventure; Jack breaks his henrietta
-./amuseme Henrietta
+    ./amuseme -u Henry -x "favorite chopsticks"
 
-# Jack & & Jill have an adventure; Jack breaks his henrietta
-./amuseme -saywhat Henrietta
+### Jack & Jim go up the hill; Jack breaks his coffee mug & uses CBD to try to repair it; we see this on the internets
+
+    ./amuseme -x -u Jim "coffee mug" CBD
+
+### Jack & & Jill have an adventure; Jack breaks his henrietta
+
+    ./amuseme Henrietta
+
+### Jack & & Jill have an adventure; Jack breaks his henrietta
+
+    ./amuseme -saywhat Henrietta
