@@ -1,4 +1,4 @@
-# Seminar #3 - Shell Scripting (DRAFT)
+# Seminar #3 - Shell Scripting  
 ACIT2420 - BCIT - Winter 2019
 
 ## Overview
@@ -125,5 +125,8 @@ or script language!
 ## 19. Stream editor
 
 See the [sed primer](https://www.tldp.org/LDP/abs/html/x23170.html)
+
+--> You want to be able to do an inline string substitution
+
 
 ## 20. Now you are ready to tell us a story :-/

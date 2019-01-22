@@ -1,4 +1,4 @@
-# Lab #2 - Shell Scripting (DRAFT)
+# Lab #2 - Shell Scripting   
 ACIT2420 - BCIT - Winter 2019
 
 ## Lab script you create... `amuseme.sh`
@@ -8,9 +8,9 @@ ACIT2420 - BCIT - Winter 2019
 - Create an empty `rhymes` folder in your home folder
 - Make the `rhymes` folder your working directory
 - Retrieve the [Jack and Jill](/data/JackAndJill.txt) story _Hint: `wget`_
-- Replace "Jill" with your username or the optional (`-u`) username provided
+- Replace "Jill" with your username or the optional (`-u`) username provided _Hint: `sed`_
 - Replace "crown" with the first positional parameter, and
-"vinegar" with the second positional parameter (if supplied)
+"vinegar" with the second positional parameter (if supplied) _Hint: `sed`_
 - Save the resulting file as `index.html`
 - If the `x` option was used (no value), then run firefox with the HTML file
 - Make sure your script is executable, and strip the ".sh" file extension from it
@@ -20,6 +20,8 @@ ACIT2420 - BCIT - Winter 2019
 - `./amuseme Henrietta`
 - `./amuseme -u Henry -x "favorite chopsticks"`
 - `./amuseme -x -u Jim "coffee mug" CBD` 
+
+What do you think each of these should do?
 
 ## Lab Submission
 
