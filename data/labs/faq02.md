@@ -4,6 +4,24 @@ ACIT2420 - BCIT - Winter 2019
 This page addresses some of the questions that have or will come up in or about the lab
 this week :-/
 
+## Parameters beside each other?
+
+Are we assuming that the two parameters being passed to replace "vinegar" and "crown" are going to be always be next to each other?
+Or are we suppose to account for someone typing in the following:
+
+    ./amuseme.sh -x "PARAMETER1" -u James "PARAMETER2"
+
+The general syntax for any bash or command line command is
+
+    command options parameters
+
+In other words, once we encounter the first parameter, we can take
+any words thereafter as positional parameters.
+
+In your example above, "PARAMETER1" would be the first ($1),
+"-u" the second ($2), "James" the third ($3) and "PARAMETER2" the
+fourth ($4).
+
 ## Can we copy/paste? the beanstalk story or the index.html?
 
 No! Part of the intent is that your shell script do *everything* inside it,
