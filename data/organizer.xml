@@ -25,8 +25,8 @@ Course organizer for ACIT2420
     <week num="4">
         <topic>Managing Users &amp; Groups</topic>         
         <lesson name="prep04" icon="dothis">Su-su-sudo</lesson>
-        <tutorial name="bossy">Managing users and groups (DRAFT)</tutorial>
-        <lab name="lab03">Manage like a boss (DRAFT)</lab>
+        <tutorial name="bossy">Managing users and groups</tutorial>
+        <lab name="lab03">Manage like a boss</lab>
     </week>
     <week num="5">
         <topic>Assignment 1 Completion</topic>
