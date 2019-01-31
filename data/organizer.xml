@@ -30,9 +30,9 @@ Course organizer for ACIT2420
     </week>
     <week num="5">
         <topic>Assignment 1 Completion</topic>
-<!--        
-        <lesson name="prep05" icon="dothis" survey="366760">Pi Background</lesson>
+        <lesson name="prep05" icon="dothis" survey="388797">Pi Background</lesson>
         <assignment icon="read" name="assignment1">Vanilla Pi</assignment>
+<!--        
         <lesson name="week05" icon="read">Pi Thoughts (week 5) survey results</lesson>
 -->        
     </week>
