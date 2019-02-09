@@ -1,15 +1,11 @@
 #Seminar #8 Online Prep
-ACIT2420 - BCIT - Fall 2018
+ACIT2420 - BCIT - Winter 2019
 
-In lab this week, you will be exploring services,
-and then configuring your SSH service appropriately.
+This week is mostly about processes.
 
-Background reading for this week: 
-- https://www.lifewire.com/what-is-etc-services-2196940
-- http://www.makeuseof.com/tag/control-linux-start-services-daemons/
-- http://www.ixwebhosting.com/support/st_kb/managing-services-on-linux-servers/
+Please read the article below, which is intended to equip
+you with some conceptual understanding of processes. 
 
-The above present slightly different interpretations of the same subject,
-Linux services :-/
-
-I look forward to questions at the beginning of class :)
+Reading:
+- [Computing processes](https://en.wikipedia.org/wiki/Process_(computing)) - 
+yes, Wikipedia, but conceptually practical

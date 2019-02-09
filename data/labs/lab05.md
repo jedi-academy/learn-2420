@@ -1,5 +1,5 @@
 #Seminar #4b - Monitor and Manage Processes
-ACIT2420 - BCIT - Fall 2018
+ACIT2420 - BCIT - Winter 2019
 
 ##Overview
 

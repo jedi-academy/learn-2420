@@ -1,7 +1,7 @@
-#Seminar #4a - File Permissions
-ACIT2420 - BCIT - Fall 2018
+# Seminar #6 / Lab #4 - File Permissions
+ACIT2420 - BCIT - Winter 2019
 
-##Overview
+## Overview
 
 It isn't practical to replicate the environment of the Red Hat Classroom Server,
 which is what is assumed for Section 7.9 in the RH124 Student Guide.
@@ -10,7 +10,7 @@ Instead, we have a comparable exercise for you to complete, which will require
 that you apply some skills from earlier weeks (you do remember how to find out how to use
 a Linux commands, right?)
 
-###File Permissions Lecturette
+## File Permissions Lecturette
 
 - owners, groups, and others
 - read, write & execute
@@ -20,7 +20,7 @@ a Linux commands, right?)
 - initial settings managed by `umask`
 
 - commands to manage these
-    - chmod ###|whowhatwhich target
+    - chmod ### (whowhatwhich target)
     - chown user target
     - chgrp group target
     - switch -r for recursion; wildcards ok
@@ -33,11 +33,11 @@ a Linux commands, right?)
 - can you end up with someone else's files inside your folders?
     - yes, if root copies them and doesn't fix permissions
 
-- can you end up with foles/folders inside your folders that you hjave no rights to?
+- can you end up with files/folders inside your folders that you have no rights to?
     - see above
     - as owner, you can take your rights away!
 
-##Using the Student Guide
+### Notes on Using the Student Guide
 
 It is awkward because we don't have the classroom server,
 with the script to build a pre-determined environment.
@@ -55,22 +55,13 @@ team environment.
 To work through the "CONTROLLING NEW FILE PERMISSIONS
 AND OWNERSHIP" guided exercise, you should be good with the group and accounts from above.
 
+We are not saying you *have* to complete the student guide chapters in file
+permissions, but suggest that doing so would make the lab itself easier to complete :-/
 
-##Lab Submission
+# Finally, The Lab
 
-Take screenshots showing the performance of the lab tasks, or
-capture the console log.
-
-Submit your document(s) or image(s) to the lab 4 dropbox.
-Name them so it is easy to follow your "story", and to
-distinguish the pieces from the processes part of today's lab (Part B).
-
-There is no rubric for this lab. I will start from a reasonable completion point, 
-and deduct marks if you mess things up.
-
-#Finally, The Lab
-
-You want to setup a team environment for the Simpsons.
+You want to make a **shell script** to setup a team environment for the Simpsons.
+That includes accounts, groups and shared folders.
 
 That means four accounts: homer, marge, bart & lisa
 
@@ -96,3 +87,9 @@ the intended security behaves as expected.
 Note: it would be nice if we could prevent Bart from changing key data,
 like his allowance (?), or to at least log any attempts by him
 to do so, but that is a subject  for another day :-/
+
+## Lab Submission
+
+Submit your shell script to the lab 4 dropbox.
+
+Not sure if there will be a rubric for this or not.
