@@ -90,6 +90,6 @@ to do so, but that is a subject  for another day :-/
 
 ## Lab Submission
 
-Submit your shell script to the lab 4 dropbox.
+Submit your shell script to the lab 4 dropbox, by Sunday 17:30.
 
-Not sure if there will be a rubric for this or not.
+A rubric has been attached to the dropbox.
