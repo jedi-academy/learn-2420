@@ -1,3 +1,12 @@
+### Week 7 - Feb 19
+
+- Midterm time!!  
+- Tues 10:45-12:45 in DTC-581 (sets A & B) / 578 (set C)
+- open book, open internet, just no "ask a friend"
+- preparation: last term's midterm is on D2L, in the "Study Aids" content section
+- content: you will be building a shell script, with multiple parts in it, each for
+part of the midterm grade
+
 ### Week 6 - Feb 12/13
 
 Prep: reading
