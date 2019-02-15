@@ -7,6 +7,10 @@
 - content: you will be building a shell script, with multiple parts in it, each for
 part of the midterm grade
 
+Chris & I are doing our best to catch up with marking. No guarantees for lab04,
+however, as its due date is Sunday.
+
+
 ### Week 6 - Feb 12/13
 
 Prep: reading
