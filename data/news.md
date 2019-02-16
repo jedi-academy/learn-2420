@@ -1,3 +1,12 @@
+### Food for thought 
+
+If this doesn't give you nightmares, nothing will! 
+
+- [I Ran Windows 10 on Raspberry Pi So You Don't Have To](https://www.tomshardware.com/news/windows-10-raspberry-pi-hands-on,38629.html)
+- [How to Install Full Windows 10 on a Raspberry Pi](https://www.tomshardware.com/reviews/install-windows-10-on-raspberry-pi,5993.html)
+
+No, it won't be on the midterm
+
 ### Week 7 - Feb 19
 
 - Midterm time!!  
@@ -9,7 +18,6 @@ part of the midterm grade
 
 Chris & I are doing our best to catch up with marking. No guarantees for lab04,
 however, as its due date is Sunday.
-
 
 ### Week 6 - Feb 12/13
 
