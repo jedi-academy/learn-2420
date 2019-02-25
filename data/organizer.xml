@@ -37,9 +37,6 @@ Course organizer for ACIT2420
         <topic>Managing Files and Permissions</topic>
         <lesson name="prep06" icon="dothis">Grokking Linux Permissions</lesson>
         <lab name="lab04">File Permissions</lab>
-<!--        
-        <lab name="lab04b">Monitor and Manage Processes</lab>
--->        
     </week>
     <week num="7">
         <topic>Midterm</topic>
@@ -49,10 +46,8 @@ Course organizer for ACIT2420
     </week>
     <week num="8">
         <topic>Managing Processes</topic>
-<!--        
-        <lesson name="prep08" icon="dothis">Grokking Linux Processes</lesson>
+        <lesson name="seminar08">Grokking Linux Processes</lesson>
         <lab name="lab05">Monitor and Manage Processes</lab>
--->        
     </week>
     <week num="8">
         <topic>Managing Services and Daemons</topic>

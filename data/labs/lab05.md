@@ -1,4 +1,4 @@
-#Seminar #4b - Monitor and Manage Processes
+#Lab #5 - Monitor and Manage Processes
 ACIT2420 - BCIT - Winter 2019
 
 ##Overview
@@ -11,52 +11,23 @@ excessive resources (and hence clearly show up when monitoring).
 The lab below "fakes it" as best we can.
 
 
-###Processes Lecturette
 
-- big vs small processes ... memory-intensive
-- parent vs child processes
-- heavy vs light processes ... dedicated vs shared resources
-- spawned vs forked processes ... asynch vs synch
-- background vs foreground processes
-- daemon or not
-- kernel vs user processes
-
-- process differences between platforms ... metadata, scheduling, 
-- Job vs Process vs Thread (preemptive) vs Fiber (cooperative)
-- shell scripts as jobs?
-
-- commands
-    - kill, killall
-    - pkill
-    - pgrep
-
-- tools
-    - `htop` can replace `top`
-
-###Practice
-
-Once the notion of processes is clear, complete what you can of the guided exercises
-in Chapter 7 in your student guide, to make sure
-you "get" the basics of processes.
-
-You want to be able to:
-- explain what a Linux process is
-- demonstrate the basic commands to manipulate processes
-
-Caution: you will need to use a grain of salt with some of the student
-guide. It relies on the environment provided by the classroom
-server (eg `hippo` process), which doesn't match ours exactly.
-We will need to improvise a bit :-/
 
 ##The Exercise
 
 Here is the set of tasks we want to perform for the submitted
-part of the lab. As with the permissions, take logs and/or
+part of the lab. Take logs and/or
 screenshots to show completion/progress, naming the pieces
-to tell your story, and to keep them separate from
-the file permissions exercise. These should be submitted
-to the lab4 dropbox, as wel as the "evidence"
-from lab04a.
+to tell your story. These should be submitted
+to the lab5 dropbox.
+
+Create an "elephant" script, which consumes lots of memory and
+processor resource for a reasonable period of time,
+One suggestion would be compressing one of the CentOS ISOs
+and then extracting it to a different folder.
+Feel free to suggest your own such work script.
+the objective is to put enough load on the system that
+the results are measurable.
 
 - Run Firefox in the background ...
 - Run gedit in the background ...
@@ -64,6 +35,8 @@ from lab04a.
 - Suspend the calculator process ...
 - Send it to the background ...
 - View which processes are running in the background ...
+- Fire up your "elephant" script
+- What is its impact on processes & performance?
 - Send the calculator process to the foreground ...
 - Cancel the calculator process ...
 - Log in as root in another terminal window ...

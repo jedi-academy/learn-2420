@@ -1,3 +1,11 @@
+### Week 8 - Feb 26/27
+
+We are talking and walking processes this week, and we're not talking about
+CuisinArt!
+
+Chris & I are working on marking the midterms ... no promises that they will be 
+ready for you!
+
 ### Food for thought 
 
 If this doesn't give you nightmares, nothing will! 
