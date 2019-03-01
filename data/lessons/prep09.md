@@ -1,20 +1,14 @@
-#Seminar #6 Online Prep
-ACIT2420 - BCIT - Fall 2018
+# Seminar #9 Online Prep  
+ACIT2420 - BCIT - Winter 2019
 
-Logs matter. That's how Linux can tell us "what hurts", if we know how
-to filter & interpret them.
+In lab this week, you will be exploring services,
+and then configuring your SSH service appropriately.
 
-The basics are simple:
-- `systemd-journald` logs messages to a binary journal file
-- `rsyslog` extracts & groups messages in appropriate text files inside `/var/log/`
-- `journalctl` can filter & report journal data per your directives
+Background reading for this week: 
+- https://www.lifewire.com/what-is-etc-services-2196940
+- http://www.makeuseof.com/tag/control-linux-start-services-daemons/
 
-The problem is that there is *so much* data to sift through.
-You could spend your waking day reading these messages, but on a typical
-server they are generated faster than you can keep up with :(
+The above present slightly different interpretations of the same subject,
+Linux services :-/
 
-Read Chapter 10 - Analyzing and Storing Logs, in your student guide, for
-some background. 
-
-Here are the suggested logs you should pay attention to:  
-https://www.eurovps.com/blog/important-linux-log-files-you-must-be-monitoring
+We look forward to questions at the beginning of class :)

@@ -1,3 +1,19 @@
+### Week 9 - Mar 5/6
+
+The ultimate goal this week is setting up secure access to your "server", 
+which should be a second (for us) CentOS VM. 
+
+The week after spring break, you will be working on assignment 2,
+and setting up your Pi to be a server running CentOS 7 too.
+Details will not be posted until late in spring break week, to encourage
+you to take some downtime.
+
+Reminder: spring break is Mar 11-15!
+
+### You heard it here first!
+
+[Millionth Sale as 7th Anniversary Arrives](https://www.tomshardware.com/news/raspberry-pi-25-million-sold,38724.html)
+
 ### Week 8 - Feb 26/27
 
 We are talking and walking processes this week, and we're not talking about

@@ -1,24 +1,19 @@
-#Seminar #5 - Services & Daemons
-ACIT2420 - BCIT - Fall 2018
+# Lab #6 - Services & Daemons
+ACIT2420 - BCIT - Winter 2019
 
-##Overview
-
-I liked the format of the last lab, with you exploring some stuff on your own,
-while using the Red Hat Student Guide to fall back on for the core material.
-
-This lab  is somewhat similar :)
+## Overview
 
 The goal is to setup secure remote shell access to your server VM, while
 gaining some insights into services and daemons along the way.
 Your "server VM" could be your Pi, namely a running instance
 of a minimal CentOS :-/
 
-##Lab Teams
+### Lab Teams
 
 This is an individual lab, although there is merit to working in parallel with a 
 partner, for support. You need individual submissions, even in that case.
 
-##Lab Submission
+### Lab Submission
 
 There are four pieces to build for submission:
 
@@ -29,15 +24,13 @@ There are four pieces to build for submission:
 
 You *could* do this in a single document, provided the sections are clearly delineated.
 
-Submit your piece(s) to the lab 5 dropbox.
-
-There is no rubric for this lab. I will start from a reasonable completion point, 
-and deduct marks if you mess things up.
+Submit your piece(s) to the lab 6 dropbox.
 
 
-#Finally, The Lab
 
-##Part I - Controlling Services & Daemons (Chapter 8)
+# Finally, The Lab
+
+## Part I - Controlling Services & Daemons (Chapter 8)
 
 This chapter in the student guide will help you answer the following questions:
 
@@ -50,18 +43,18 @@ This chapter in the student guide will help you answer the following questions:
 - What is the **ftpd** service? Make sure it is not running on either VM
 
 
-###Setting up for this
+### Setting up for this
 
 You may need to reconfigure your VMs, lowering the main memory assigned to them.
 You will want "both" fired up for this (that should be two CentOS instances for 
-this lab - the one you already have, and a "minimal" one with no GUI - thje "server").
+this lab - the one you already have, and a "minimal" one with no GUI - the "server").
 
-###Student Guide
+### Student Guide
 
 Red Hat budgets 60 minutes to carefully work through Chapter 8 in the student guide.
 You may have done this already, or not feel the need - that is up to you.
 
-##Counting configured services
+### Counting configured services
 
 You could capture the output of the appropriate command listing services, and manually count
 the lines in that output. I suspect you will want an easier alternative.
@@ -75,18 +68,18 @@ protocols. An easier approach to the problem is to simplify, by filtering the se
 list output so that it only includes the *tcp* ones (**grep** comes to mind).
 
 Put the above together and you get
-- producing a list of services, piping that into
-- filtering the list, so only the tcp ones remain, piping the result into
+- producing a list of services, piping that into ...
+- filtering the list, so only the tcp ones remain, piping the result into ...
 - a command to count the number of lines in the result
 
 
-##Part II - Setting up SSH Securely (Chapter 9)
+## Part II - Setting up SSH Securely (Chapter 9)
 
 Your mission, whether you wish to accept it or not, is to configure
 the SSH service on your VMs as specified below.
 This is considered normal and responsible!
 
-##Enhance your VirtualBox network configuration
+### Enhance your VirtualBox network configuration
 
 We want to make your VMs more obviously accessible to your host system.
 
@@ -111,14 +104,14 @@ Once the two virtual hosts have been setup on your host, edit the *hosts* file
 on your desktop VM, adding an entry for "server.vm".
 
 
-###Student Guide
+### Student Guide
 
 Red Hat budgets 90 minutes to carefully work through Chapter 9 in the student guide.
 You may have done this already, or not feel the need - that is up to you.
 
 It will be helpful.
 
-###Make sure you can SSH into your systems
+### Make sure you can SSH into your systems
 
 From a command prompt on your host,
 
@@ -128,9 +121,9 @@ From a terminal prompt on your desktop VM,
 
     ssh student@server.vm
 
-NOTE: is ssh is not running, on either of your VMs, you will need to start it.
+NOTE: if ssh is not running, on either of your VMs, you will need to start it.
 
-##Minimal SSH hardening.
+### Minimal SSH hardening.
 
 "Out of the box", you should be able to "ssh root@..." for both of your VMs.
 
@@ -141,7 +134,7 @@ On each system, edit the SSH service configuration file, disabling the
 
 Make sure you can no longer SSH as root into either of your VMs.
 
-##Server SSH Hardening
+### Server SSH Hardening
 
 Disable **PasswordAuthentication** for your server VM's SSH. Why?
 
@@ -149,7 +142,7 @@ On your desktop VM, generate an SSH key, and register it with your server VM.
 
 Verify that you can login to your server VM only as "student", and without a password.
 
-###Host empowering
+### Host empowering
 
 What if you want to SSH into your server from a different machine, eg your host, or
 another machine altogether. You have several choices:

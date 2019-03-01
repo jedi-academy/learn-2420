@@ -49,12 +49,10 @@ Course organizer for ACIT2420
         <lesson name="seminar08">Grokking Linux Processes</lesson>
         <lab name="lab05">Monitor and Manage Processes</lab>
     </week>
-    <week num="8">
+    <week num="9">
         <topic>Managing Services and Daemons</topic>
-<!--        
-        <lesson name="prep08" icon="dothis">Just what *is* a service?</lesson>
-        <lab name="lab05">Ch 8/9 - Manage Services and Daemons, specifically SSH</lab>
--->        
+        <lesson name="prep09" icon="dothis">Just what *is* a service?</lesson>
+        <lab name="lab06">Ch 8/9 - Manage Services and Daemons, specifically SSH</lab>
     </week>
     <week num="10">
         <topic>Assignment 2 Completion</topic>
