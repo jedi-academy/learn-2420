@@ -1,3 +1,13 @@
+### Midterms
+
+The midterms have been marked and analyzed. A significant portion of the
+problems encountered are what I consider "programming logic" problems
+with your scripts. Programming logic is not part of the learning outcomes for ACIT2420,
+and we have made a fairness adjustment. 
+
+The midterm results will be treated as out of 37 instead of 42 because of this.
+The maximum mark will be 37 - those who did well originally don't get a bonus!
+
 ### Week 9 - Mar 5/6
 
 The ultimate goal this week is setting up secure access to your "server", 
@@ -55,29 +65,3 @@ rather than leaving it to your spare time.
 Dealing with "processes" gets bumped to the week after our 
 midterm, and this will also involve a lighter treatment of
 "hardening Linux" at the end of the course.
-
-### Week 5 - Feb 5/6
-
-Prep: reading & survey  
-Lab: complete assignment 1  
-
-### Week 4 - Jan 29/30
-
-All in the organizer
-
-### Week 3 - Jan 22/23
-
-Prep: student guide, chapter 4  
-Seminar: shell scripting :)  
-See the organizer tab below
-
-### Week 2 - Jan 15/16  
-
-Prep: video to watch  
-Seminar: two topics  
-See the organizer tab below
-
-### Welcome :)
-
-Welcome to the course hub for ACIT2420.  
-Lessons, labs, and non-proprietary resource materials are hosted here.
