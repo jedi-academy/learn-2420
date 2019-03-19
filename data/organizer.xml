@@ -27,7 +27,7 @@ Course organizer for ACIT2420
         <lesson name="prep04" icon="dothis">Su-su-sudo</lesson>
         <tutorial name="bossy">Managing users and groups</tutorial>
         <lab name="lab03">Manage like a boss</lab>
-    </week>
+     </week>
     <week num="5">
         <topic>Assignment 1 Completion</topic>
         <lesson name="prep05" icon="dothis" survey="388797">Pi Background</lesson>
@@ -57,7 +57,8 @@ Course organizer for ACIT2420
     <week num="10">
         <topic>Assignment 2 Completion</topic>
         <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
-    </week>
+        <tutorial name="wifi">Possibly helpful note for connecting CentOS to our campus wifi</tutorial>
+   </week>
     <week num="9">
         <topic>Analyzing Logs</topic>
 <!--        
