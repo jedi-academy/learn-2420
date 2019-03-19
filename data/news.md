@@ -1,3 +1,11 @@
+### Week 10 - Mar 19/20
+
+We have out own Pi-day(s) this week, with assignment 2 :)
+
+Yes, that means you should bring your Pi!
+
+The assignment is deceptively simple. Some of you will breeze through it, while others will struggle.
+
 ### Midterms
 
 The midterms have been marked and analyzed. A significant portion of the
