@@ -1,3 +1,7 @@
+## Week 11 - Mar 26/27
+
+We are going to have some "fun" with logs and their analysis this week!
+
 ### Week 10 - Mar 19/20
 
 We have out own Pi-day(s) this week, with assignment 2 :)

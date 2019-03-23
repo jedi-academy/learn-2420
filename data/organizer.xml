@@ -59,11 +59,11 @@ Course organizer for ACIT2420
         <assignment name="assignment2" icon="dothis">Second Pi Job</assignment>
         <tutorial name="wifi">Possibly helpful note for connecting CentOS to our campus wifi</tutorial>
    </week>
-    <week num="9">
+    <week num="11">
         <topic>Analyzing Logs</topic>
+        <lesson name="prep11" icon="dothis">Linux Log Files</lesson>
+        <lab name="lab07">Working with logs</lab> 
 <!--        
-        <lesson name="prep09" icon="dothis">Linux Log Files</lesson>
-        <lab name="lab06">Working with logs</lab> 
 -->        
     </week>
     <week num="11">

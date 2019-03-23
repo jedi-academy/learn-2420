@@ -1,5 +1,5 @@
-#Lab #6 - Working With Logs
-ACIT2420 - BCIT - Fall 2018
+#Lab #7 - Working With Logs
+ACIT2420 - BCIT - Winter 2019
 
 ##Overview
 
@@ -13,7 +13,7 @@ have 5-10 minutes to demo it in class.
 
 This is a team lab, with self-assigned team composition.
 I have made a new group category, `logteams`, for this.
-If you accidentally end up in the wrong team, see me in lab to fix it.
+If you accidentally end up in the wrong team, see us in lab to fix it.
 
 ##Lab Submission
 
