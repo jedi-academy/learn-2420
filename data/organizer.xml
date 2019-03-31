@@ -66,13 +66,12 @@ Course organizer for ACIT2420
 <!--        
 -->        
     </week>
-    <week num="11">
-        <topic>Managing Networking</topic>
-<!--        
-        <lab name="lab07">Managing Networking</lab>
--->        
-    </week>
     <week num="12">
+        <topic>Managing Networking</topic>
+        <lesson name="prep12" icon="dothis">Network Management</lesson>
+        <lab name="lab08">Managing Networking</lab>
+    </week>
+    <week num="13">
         <topic>Hardening Linux &amp; Assignment 3</topic>
 <!--        
         <lesson name="prep12" icon="dothis" survey="373015">Prep reading</lesson>

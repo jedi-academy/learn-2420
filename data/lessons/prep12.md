@@ -1,29 +1,21 @@
-#Seminar #8 Exchanging Files & Installing Packages?
-ACIT2420 - BCIT - Fall 2018
+# Seminar #12 Network Management
+ACIT2420 - BCIT - Winter 2019
 
-We are addressing hardening in lab this week, and not the above :-/
-In fact, you have already done most of what is covered in the
-two chapters - 12 (Archiving and Copying Files Between Systems) and 
-13 (Installing and Updating Software Packages).
+You have learned lots about networking concepts and configuration in ACIT2620.
+This seminar is meant to complement that, by managing network connections
+from the command line, using **nmcli**.
 
-I suggest you give them a quick once over, and bring questions to class.
+For prep, I suggest you skim the first two sections in Chapter 11: network concepts, and
+validating network configuration.
 
-The big deal with Chapter 12 is understanding the **tar**, **scp** and **sync** commands.
+## Archiving & Copying
 
-The big deal with Chapter 13 is understanding & working with **RPM** and **yum**.
+Read Chapter 12, Archiving & Copying Files Between Systems, and bring questions to class.
 
-##Ok, so what are we doing, really?
+We are not going to do a lab based on it. The important commands:
 
-We are going to talk about **security & hardening**, 
-getting a head start on start on assignment 3 as it were.
+- tar -> tarfiles, tarballs
+- scp -> Q&D transfer
+- rsync -> briefcase? you can setup a cron job to backup automatically
 
-This is a "loaded" topic (heavy, subject to opinionated interpretation, impossible
-to prove absolutely, a bottomless pit for time & resources), and I want to walk
-you through it in class.
-
-In preparation, you should read Chapter 1,
-[Overview of Security Topics](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/index),
-in the RHEL 7 Security Guide, and then complete the D2L survey (for a mark) I have posted.
-
-More material will be posted before class, but I recommend that you not start the assignment
-until we have talked about this in class!
+We will say a few words about these in class, and answer questions.
