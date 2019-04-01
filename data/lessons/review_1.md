@@ -1,5 +1,5 @@
-#Seminar #13 Review  
-ACIT2420 - BCIT - Fall 2018
+# Seminar #13 Review  
+ACIT2420 - BCIT - Winter 2019
 
 The number of asterisks following a command are a
 measure of its importance (and hence likelihood

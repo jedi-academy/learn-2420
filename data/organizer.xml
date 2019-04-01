@@ -73,18 +73,10 @@ Course organizer for ACIT2420
     </week>
     <week num="13">
         <topic>Hardening Linux &amp; Assignment 3</topic>
-<!--        
-        <lesson name="prep12" icon="dothis" survey="373015">Prep reading</lesson>
         <lesson name="security" >Security talking points</lesson> 
-        <lab name="lab08">Security assessment</lab>
-        <lab name="lab08-old" icon="read">The other stuff...</lab>
-        <topic>Review &amp;Assignment 3 completion</topic>
         <assignment name="assignment3" icon="dothis">Third Pi Job</assignment>
-        <lesson name="review">Review</lesson>
-        <lesson name="review_1">... and the commands to go with it</lesson>
-        <lab name="lab09" icon="read">FYI ... File systems &amp; virtualization ... I know
-        you're dying to find out more!</lab> -->
--->        
+        <lesson name="review">Review - skills</lesson>
+        <lesson name="review_1">Review - commands</lesson>
     </week>
     <week num="14">
         <topic>Final Exam</topic>

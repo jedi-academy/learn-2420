@@ -1,15 +1,15 @@
-#Seminar #13 Review  
-ACIT2420 - BCIT - Fall 2018
+# Seminar #13 Review  
+ACIT2420 - BCIT - Winter 2019
 
 I have suggested earlier that the final exam will be
 multiple choice, rather than the brutal and demoralizing
 hands-on midterm. You're welcome.
 
-##ACIT2420 Final Exam
+## ACIT2420 Final Exam
 
-Mon, Dec 10  
-10:45-12:45  
-DTC-581
+Tue, Apr 16
+10:50-12:50  
+DTC-581 (sets A & B) and DTC-578 (set C)
 
 - Multiple choice, single correct answer  
 - 50-100 questions (undecided at the moment)  
@@ -19,7 +19,7 @@ DTC-581
 (eg Raspberry Pi).
 - closed book
 
-##RHCSA
+## RHCSA
 
 The sections below are the learning outcomes that Red Hat has for
 their Certified System Administrator. 
@@ -30,7 +30,7 @@ address.
 
 **RHCSA exam candidates should be able to accomplish the tasks below without assistance.**
 
-###Understand and use essential tools (Ch 1-4 & 12)
+### Understand and use essential tools (Ch 1-4 & 12)
 
 - Access a shell prompt and issue commands with correct syntax
 - Use input-output redirection (>, >>, |, 2>, etc.)
@@ -44,7 +44,7 @@ address.
 - List, set, and change standard ugo/rwx permissions
 - Locate, read, and use system documentation including man, info, and files in /usr/share/doc
 
-###Operate running systems (Ch 7-10)
+### Operate running systems (Ch 7-10)
 
 - Boot, reboot, and shut down a system normally
 - Boot systems into different targets manually
@@ -56,14 +56,14 @@ address.
 - Start, stop, and check the status of network services
 - Securely transfer files between systems
 
-###Configure local storage
+### Configure local storage
 
 - _List, create, delete partitions on MBR and GPT disks_
 - _Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes_
 - _Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label_
 - _Add new partitions and logical volumes, and swap to a system non-destructively_
 
-###Create and configure file systems (Ch 7)
+### Create and configure file systems (Ch 7)
 
 - _Create, mount, unmount, and use vfat, ext4, and xfs file systems_
 - _Mount and unmount CIFS and NFS network file systems_
@@ -72,7 +72,7 @@ address.
 - _Create and manage Access Control Lists (ACLs)_
 - Diagnose and correct file permission problems
 
-###Deploy, configure, and maintain systems (Ch 8, 11, 13)
+### Deploy, configure, and maintain systems (Ch 8, 11, 13)
 
 - Configure networking and hostname resolution statically or dynamically
 - _Schedule tasks using at and cron_
@@ -83,17 +83,17 @@ address.
 - Configure network services to start automatically at boot
 - Configure a system to use time services
 - Install and update software packages from Red Hat Network, a remote repository, or from the local file system
-- Update the kernel package appropriately to ensure a bootable system
+- _Update the kernel package appropriately to ensure a bootable system_
 - _Modify the system bootloader_
 
-###Manage users and groups (Ch 5-6)
+### Manage users and groups (Ch 5-6)
 
 - Create, delete, and modify local user accounts
 - Change passwords and adjust password aging for local user accounts
 - Create, delete, and modify local groups and group memberships
 - _Configure a system to use an existing authentication service for user and group information_
 
-###Manage security (Ch 9, 11)
+### Manage security (Ch 9, 11)
 
 - _Configure firewall settings using firewall-config, firewall-cmd, or iptables_
 - Configure key-based authentication for SSH
@@ -103,11 +103,11 @@ address.
 - _Use boolean settings to modify system SELinux settings_
 - _Diagnose and address routine SELinux policy violations_
 
-##Beyond Redhat
+## Beyond Redhat
 
 We tackled a few topics that are not part of the standard Red Hat CSA curriculum.
 
-###Shell Scripting
+### Shell Scripting
 
 - basics 
 - variables & substitution
@@ -119,7 +119,7 @@ We tackled a few topics that are not part of the standard Red Hat CSA curriculum
 - lists
 - sed
 
-###Raspberry Pi
+### Raspberry Pi
 
 - the pi
 - raspian os
