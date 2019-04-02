@@ -73,7 +73,10 @@ If appropriate, submit shell script(s) for the above.
 
 Audience: (1) us, (2) you, for when you have to do this on the job.
 
-Due: 19:30 Apr 14, 2019
+Due: **19:30 Apr 11, 2019**
+
+Note that final exams start on Fri the 12th. We encourage you to complete &
+submit this assignment for Weds the 10th.
 
 ##Grading
 
